@@ -1,6 +1,21 @@
+#!/usr/bin/ruby
+
+# Convert Redmine CSV export files into Pivotal Tracker CSV for importing
+# Author: Mark Lubarsky
+# Creation Date: 4/11/2012
+
+# USAGE: ruby redmine_to_pivotal.rb redmine_csv_file.csv pivotal_csv_file.csv
+
+#This file converts Redmine tool CSV export into Pivotal for importing purposes.
+
+#NOTE: This code automatically maps types, status and estimate based on Pivotal rules
+
 require 'rubygems'
 require 'fastercsv'
 require 'ruby-debug'
+
+redmine_csv_file = ARGV[0]
+pivotal_csv_file = ARGV[1]
 
 
 def from_redmine(file_path)
@@ -50,17 +65,14 @@ def to_pivotal(file_path, redmine_attr_array)
 			]
 		end	
   	end
+
 end	
 
-redmine_csv_files = ['backend', 'product_scrum', 'customer_feedback_redmine'].inject([]) { |redmine_csv_files, f|  redmine_csv_files << File.join(File.dirname(__FILE__), 'data', "#{f}.csv") }
+redmine_attr_array = from_redmine(redmine_csv_file)
 
-pivotal_csv_files = redmine_csv_files.inject([]) { |pivotal_csv_files, f|  pivotal_csv_files << "#{f}_to_pivotal.csv" }
+to_pivotal(pivotal_csv_file, redmine_attr_array) 
 
-redmine_csv_files.each_with_index do |redmine_csv_file, i| 
-	to_pivotal(pivotal_csv_files[i], from_redmine(redmine_csv_file)) 
-end
-
-puts "converted #{redmine_csv_files.inspect} to #{pivotal_csv_files.inspect}"
+puts "converted #{redmine_csv_file} to #{pivotal_csv_file} (#{redmine_attr_array.length} rows)"
 
 
 
