@@ -1,0 +1,9 @@
+# Convert Redmine CSV export files into Pivotal Tracker CSV for importing
+# Author: Mark Lubarsky
+# Creation Date: 4/11/2012
+
+# USAGE: ruby redmine_to_pivotal.rb redmine_csv_file.csv pivotal_csv_file.csv
+
+#This file converts Redmine tool CSV export into Pivotal for importing purposes.
+
+#NOTE: This code automatically maps types, status and estimate based on Pivotal rules
