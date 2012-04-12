@@ -1,0 +1,75 @@
+#,Status,Project,Tracker,Priority,Subject,Assigned To,Category,Target version,Author,Start date,Due date,% Done,Estimated time,Parent task,Created,Updated,Description
+353,New,Collection of Customer Feedback,Feature,Normal,support for languages other than English (eom),"","","",Dan Huard,02/02/2012,"",0,"","",02/02/2012 02:25 pm,02/02/2012 02:25 pm,""
+352,New,Collection of Customer Feedback,Feature,Normal,geolocation for state and/or country,"","","",Dan Huard,02/02/2012,"",0,"","",02/02/2012 12:54 pm,02/02/2012 12:54 pm,"geo-location is for city only, and does not work for country or state currently"
+241,New,Collection of Customer Feedback,Feature,Normal,Allowing multiple location filters for one profile,"","","",Anonymous,12/07/2011,"",0,"","",12/07/2011 03:45 pm,12/07/2011 03:45 pm,"Was requested that we allow multiple locations for filtering in a single profile. For example to track an area, enable multiple cities (or states/countries) to be entered to cover it, etc."
+208,New,Collection of Customer Feedback,Feature,Normal,"""Team"" feature suggestions","","","",Anonymous,11/30/2011,"",0,"","",11/30/2011 03:42 pm,11/30/2011 03:42 pm,"""We have been thinking of ways to give our clients Viral Heat benefits (primarily- lead generation through Social Media), however we don’t want people to sign up in multiple places (our product and VH) and pay separately to use it. Lesser hassle for clients, better for us. Plus with separate sign ups and payment, we will have to provide them additional support hours training them on using VH and how they can use it to get the leads inserted in the CRM (our product).""
+
+""We were thinking along the lines of having the ability to export the generated sales Leads directly to our site (like the one you have for Salesforce now that says ""Export to Salesforce"").
+By doing this, the generated leads get inserted into the CRM directly.
+ 
+We're looking for more than a dashboard-only solution... I think this feature will be a tremendous benefit for CRM companies"""
+165,New,Collection of Customer Feedback,Feature,Normal,Increased character limit for profile creation,"","","",Anonymous,11/28/2011,"",0,"","",11/28/2011 03:49 pm,11/28/2011 03:49 pm,"Possibly increase character limit for adding profiles?
+
+Or develop a work-around for special cases that require more than 140 characters to cover their relevant search terms."
+110,New,Collection of Customer Feedback,Feature,Normal,"Account integration, Google+ and other social bookmarking sites","","","",Anonymous,11/08/2011,"",0,"","",11/08/2011 03:20 pm,11/08/2011 03:20 pm,"I really like your service and price, but its missing a lot, it only shows twitter, no way to integrate Facebook accounts, You don’t have Google+ and Google Buzz is not as important.
+
+You don’t include other social bookmarking sites such as digg and stumble upon. And the reporting visuals are quiet limited."
+109,New,Collection of Customer Feedback,Feature,Normal,PDF Reports,"","","",Anonymous,11/08/2011,"",0,"","",11/08/2011 03:14 pm,11/08/2011 03:14 pm,"* Reports available in PDF format
+* Reports including the entire profile"
+108,New,Collection of Customer Feedback,Feature,Normal,Word cloud,"","","",Anonymous,11/08/2011,"",0,"","",11/08/2011 12:10 pm,11/08/2011 12:10 pm,curious to know if you plan to introduce a word cloud for specific profiles? So for example you could decide which terms to remove from the search and other terms to include in further searches from the words yielded? Or also to provide tonality and perspective to certain profile results.
+107,New,Collection of Customer Feedback,Bug,Normal,"Simple/easy to use, intuitive service + specific feature requests","","","",Anonymous,11/07/2011,"",0,"","",11/07/2011 10:52 am,11/07/2011 10:52 am,"For me the most important is to know who is influencing in my industry/sector on the internet, so I would like to have from my competitors:
+- twitter: who's talking about my competitors, of these people who has the most influence (followers). that's it. How much are they tweeting
+- Facebook: who's posting, liking, sharing etc. etc. of my competitors, what are the competitors doing themselves
+- Same for bloggers (I use google alerts now).
+
+For all of the above I would like to have as much data as possible (6months or more)
+
+Personally I'm not so into algorithms, I want to see the raw data myself and then be able to 'peel the union' and when needed dive in deep, really understand it. 
+
+Probably I need a simpler or easy to use tool. I also want to know exactly how the data is collected to make my own judgement (and I don't want to spend a lot of time on how to video's), the service must be very intuitive to use."
+102,New,Collection of Customer Feedback,Support,Normal,Feedback re: Contact,"","","",Anonymous,10/28/2011,"",0,"","",10/28/2011 12:54 pm,10/28/2011 12:54 pm,"1. your video embedding means that pop up windows such as these are not visible - looks like the layering is wrong 
+2. i completed this form, referred back to my email quickly, came back to this window and the contact form had vanished along with all the info."
+92,New,Collection of Customer Feedback,Feature,Normal,Monthly/weekly email report,"","","",Anonymous,10/21/2011,"",0,"","",10/21/2011 04:56 pm,10/21/2011 04:56 pm,"My client is not so cool with daily emails. I want to send them something though as they are so handy. Is it possible to send a monthly email report? Or even weekly? LOVE your software. Keep up the good work :)
+
+- Mark (mark@mysocialagency.com) [Support]"
+87,New,Collection of Customer Feedback,Feature,Normal,140 Character Profile Limitation,"","","",Vishal Sankhla,10/17/2011,"",0,"","",10/17/2011 06:08 pm,10/17/2011 06:08 pm,"Hi, the main reason was the frustration we had with limited keywords in the profile. Only allowing 140 characters for both positive and negative keywords was too limiting and was obscuring the results.
+ 
+Cheers
+Gary
+ "
+79,New,Collection of Customer Feedback,Feature,Normal,RFP for 360i (Digital Marketing Agency),"","","",Anonymous,10/13/2011,"",0,"","",10/13/2011 03:51 pm,10/13/2011 03:51 pm,""
+68,New,Collection of Customer Feedback,Bug,Normal,Tag Cloud and Trend Analysis,"","","",Vishal Sankhla,10/03/2011,"",0,"","",10/03/2011 03:01 pm,10/03/2011 03:01 pm,"Can VH's Platform monitor / identify conversational trends that include keywords that appear concurrently with specific brand mentions. For example measuring: brand mention for a ""Hasbro"" toy appearing alongside keyword ""recall"""
+64,New,Collection of Customer Feedback,Bug,Normal,User Feedback as Compared to Radian6,"","","",Vishal Sankhla,09/29/2011,"",0,"","",09/29/2011 11:35 am,09/29/2011 11:35 am,"Vishal,
+
+Your interface is lovely and easy to use, but I need a more robust social media monitoring tool.  I need a system that has archival data, rather than just data from the day I opened the service; I need a system that can mine my company's facebook page and parse out all posts and comments in an excel spreadsheet so I can do sentimetrics; I also need a system that is accurate; as I was pulling up Twitter data, I noticed that Viralheat was missing tweets that Radian6 picked up.  
+
+Thank you.
+
+Cathy
+"
+63,New,Collection of Customer Feedback,Feature,Normal,Workflow related feedback,"","","",Vishal Sankhla,09/27/2011,"",0,"","",09/27/2011 02:01 pm,09/27/2011 02:01 pm,"Hi Vishal,
+ 
+After thinking a bit more about what Viral Heat could do for me and my clients and probably a lot of other people.    The three things that would constitute a great package:
+ 
+1.  Find relevant content as you are doing but then do a great job of clustering it so I'm not tempted to wade into the raw mentions because I am confident that VH is presenting me with all the found ""topics"" (ranked by ""heat"").  I want to work at the topic level (not mentions), so ""topic"" needs to become an entity.  It feels like you are heading in this direction but it comes through as fuzzy in the UI.
+ 
+2.  Let me tag topics for my own workflow purposes.  The tagged topics will become a primary to-do list for me.  Of course you could extend this with more workflow capability in future. 
+ 
+3.  Keep up with your lead initiative.   For each lead stream I want to refine with an online ""more like this"" and ""less like that"" signals.  It sounds like you are heading in this direction.  And of course CRM integration is hot these days.
+ 
+Any chance your roadmap might develop along these lines?
+ 
+-Randy
+ 
+ 
+From: Randy Kun [mailto:randykun1@gmail.com] 
+Sent: Thursday, May 19, 2011 1:07 PM
+To: 'Vishal Sankhla'
+Subject: RE: Hi from Viralheat
+
+thx Vishal.  user is randykun and pw is viralheat.
+ 
+Another question for you.   One feature that would be very nice is the ability to flag items.   Even a primitive color scheme and then I could set up basic workflows.  This would let me record what mentions I've dealt with, which ones are top priority and which ones I want to ignore for the moment.  That sort of thing.   Any possibility that might ever happen?   (Could the difference between having to consider a Radian6 etc.)
+ 
+thx...Randy
+"

@@ -1,0 +1,863 @@
+Story,Labels,Story Type,Current State,Created at,Accepted At,Description,Estimate
+add Facebook permalinks to each mention in Profiles,"redmine,redmineID-611,redmine-Viralheat Product - Scrum",feature,unscheduled,04/09/2012 03:12 pm,,"",-1
+Change on FAQ Page,"redmine,redmineID-610,redmine-Viralheat Product - Scrum",bug,unscheduled,04/04/2012 04:08 pm,," What is Viralheat? - question does not link to the right answer.  Should link to: http://help.viralheat.com/entries/20740023-what-is-viralheat
+
+Can I track by geographic location? - DELETE",-1
+BUG: Facebook wall missing the loading icon in the beginning,"redmine,redmineID-609,redmine-Viralheat Product - Scrum",feature,unscheduled,04/04/2012 02:33 pm,,"",-1
+BUG: Linked accounts button disappears,"redmine,redmineID-608,redmine-Viralheat Product - Scrum",feature,unscheduled,04/04/2012 01:08 pm,,"",-1
+Linked Accounts Listing in Settings is broken,"redmine,redmineID-607,redmine-Viralheat Product - Scrum",bug,unscheduled,04/02/2012 11:14 am,,"Currently getting a 404 error.
+
+
+
+
+Started GET ""/javascripts/jquery_ujs.js"" for 127.0.0.1 at Mon Apr 02 11:12:24 -0700 2012
+
+
+Started GET ""/javascripts/jquery.js"" for 127.0.0.1 at Mon Apr 02 11:12:24 -0700 2012
+
+ActionController::RoutingError (No route matches [GET] ""/javascripts/jquery.js""):
+  
+
+
+ActionController::RoutingError (No route matches [GET] ""/javascripts/jquery_ujs.js""):
+  
+",-1
+Fb likes don't add up,"redmine,redmineID-606,redmine-Viralheat Product - Scrum",bug,unscheduled,03/29/2012 03:43 pm,,FB likes at the top of the page don't match the analytics,-1
+Toggle circles don't toggle,"redmine,redmineID-605,redmine-Viralheat Product - Scrum",bug,unscheduled,03/29/2012 03:21 pm,,Toggle circles under accounts don't toggle.,-1
+Will not let me log off in Chrome,"redmine,redmineID-604,redmine-Viralheat Product - Scrum",bug,unscheduled,03/28/2012 10:02 am,,When in Chrome I cannot log out.  Have to open incognito window.,-1
+Will not update Facebook account unless you delete,"redmine,redmineID-603,redmine-Viralheat Product - Scrum",bug,accepted,03/27/2012 06:04 pm,04/02/2012 04:09 pm,Deleted access from Facebook.  Showed invalid credentials on Accounts. Tried to re-add FB account and it will not unless you choose to delete and then re-add.,0
+Update button on accounts does not work,"redmine,redmineID-602,redmine-Viralheat Product - Scrum",bug,accepted,03/27/2012 05:57 pm,04/03/2012 10:34 am,Revoked VH access on Twitter then went to re-add account. Clicked update next to Twitter and opened to a blank page. Can reproduce for you if necessary.,0
+Cannot engage from Facebook under mentions in profiles,"redmine,redmineID-601,redmine-Viralheat Product - Scrum",bug,unscheduled,03/26/2012 10:52 am,,Cannot like or comment on Facebook posts from the mentions section under profiles.,-1
+Cannot make neutral mentions negative or positive,"redmine,redmineID-600,redmine-Viralheat Product - Scrum",bug,unscheduled,03/26/2012 10:45 am,,Can't change a neutral FB or Twitter mention to negative or positive.,-1
+Demo account accounts do not match up ,"redmine,redmineID-599,redmine-Viralheat Product - Scrum",bug,unscheduled,03/23/2012 06:32 pm,,On the dashboard under Account Activity it gives an overview of the accounts but the numbers do not match the numbers on the accounts in the Accounts section from the left hand menu.,-1
+Email Reporting and Data Downloads video is wrong,"redmine,redmineID-598,redmine-Viralheat Product - Scrum",bug,unscheduled,03/23/2012 05:25 pm,,Profile Wizard is showing up instead of Email Reporting and Data Downloads video in Viralheat University.  Please update.,-1
+Remove advanced profile tutorial,"redmine,redmineID-597,redmine-Viralheat Product - Scrum",bug,unscheduled,03/23/2012 05:23 pm,,No more advanced profile so please remove video from Viralheat University.,-1
+Human intent demo goes to adding profiles wizard video,"redmine,redmineID-596,redmine-Viralheat Product - Scrum",bug,unscheduled,03/23/2012 05:22 pm,,"",-1
+Facebook account ,"redmine,redmineID-595,redmine-Viralheat Product - Scrum",bug,unscheduled,03/23/2012 05:15 pm,,"Facebook account doesn't highlight in the right areas.  When I'm on all, all the analytics options show up.  When I'm on analytics, the analytics section isn't highlighted and when I go between tabs the arrow doesn't update.  ",-1
+Mentions are not adding up,"redmine,redmineID-594,redmine-Viralheat Product - Scrum",bug,unscheduled,03/23/2012 04:28 pm,,"Weekly mentions are not showing up properly (not adding up on the graph or in the ""most active accounts"" section.  For ex: Viralheat has had 25 mentions this week, not 1,097.",-1
+Billing page looks completely different,"redmine,redmineID-593,redmine-Viralheat Product - Scrum",bug,unscheduled,03/21/2012 05:00 pm,,Page looks different than the other pages.,-1
+Wrong pricing button on video page,"redmine,redmineID-592,redmine-Viralheat Product - Scrum",bug,unscheduled,03/21/2012 04:43 pm,,"",-1
+Videos won't load,"redmine,redmineID-591,redmine-Viralheat Product - Scrum",bug,unscheduled,03/21/2012 04:42 pm,,Viralheat U video doesn't load. Safari.,-1
+"Profiles are always ""processing""","redmine,redmineID-590,redmine-Viralheat Product - Scrum",bug,unscheduled,03/21/2012 04:21 pm,,"Last updated on profile is always ""processing""",-1
+"Sentiment has ""xx""","redmine,redmineID-589,redmine-Viralheat Product - Scrum",bug,unscheduled,03/21/2012 04:11 pm,,Sentiment in profiles isn't coming up,-1
+No alerts,"redmine,redmineID-588,redmine-Viralheat Product - Scrum",bug,unscheduled,03/21/2012 03:53 pm,,Haven't had any alerts in the account at all,-1
+Google+ link doesn't work,"redmine,redmineID-587,redmine-Viralheat Product - Scrum",bug,unscheduled,03/20/2012 12:52 pm,,Goes to an error.,-1
+FAQ Issue ,"redmine,redmineID-586,redmine-Viralheat Product - Scrum",bug,unscheduled,03/19/2012 11:21 am,,Question isn't in question format and link is dead,-1
+FAQ page,"redmine,redmineID-585,redmine-Viralheat Product - Scrum",bug,unscheduled,03/19/2012 11:18 am,,"""What is Viralheat?"" question does not go to the right page... also is it supposed to look like that? All black with a small text area?",-1
+Photos on Insights page don't match the text,"redmine,redmineID-584,redmine-Viralheat Product - Scrum",bug,unscheduled,03/19/2012 11:03 am,,"",-1
+Photos don't seem to match,"redmine,redmineID-583,redmine-Viralheat Product - Scrum",bug,unscheduled,03/19/2012 10:59 am,,The photos for twitter analytics and reports under the Analytics section of features don't seem to match the text.,-1
+Features page photos,"redmine,redmineID-582,redmine-Viralheat Product - Scrum",bug,unscheduled,03/19/2012 10:40 am,,"Photos change under the ""social account management"" tabs (one-view, engagement, toggling), but not for any of the other features tabs.",-1
+"Added my accounts and when I hit the logo in the top left corner, it goes to my dashboard and my accounts aren’t there anymore!","redmine,redmineID-581,redmine-Viralheat Product - Scrum",bug,unscheduled,03/16/2012 05:41 pm,,"",-1
+Same text for Amped Up Analytics section as Fb/Twitter section,"redmine,redmineID-580,redmine-Viralheat Product - Scrum",bug,unscheduled,03/16/2012 05:40 pm,,"",-1
+Same text for Amped Up Analytics section as Fb/Twitter section,"redmine,redmineID-579,redmine-Viralheat Product - Scrum",bug,unscheduled,03/16/2012 05:40 pm,,"",-1
+All videos go to TOS page,"redmine,redmineID-578,redmine-Viralheat Product - Scrum",bug,unscheduled,03/16/2012 05:40 pm,,"",-1
+Goes to wrong page,"redmine,redmineID-577,redmine-Viralheat Product - Scrum",bug,unscheduled,03/16/2012 05:39 pm,,"Setting up initial profile and adding a photo.  When done, I went to go back to finish completing my profile and when I hit the logo in the top left corner it brought me to the main screen without giving me an option to find my account. (see screen shots)!",-1
+Favoriting of tweets do NOT work,"redmine,redmineID-576,redmine-Viralheat Product - Scrum",bug,unscheduled,03/16/2012 05:29 pm,,See attached screenshot,-1
+Accounts count in left hand nav to use proper count,"redmine,redmineID-575,redmine-Viralheat Product - Scrum",bug,started,03/15/2012 03:55 pm,,Make sure the query is accounting for valid tracked accounts only,0
+Detached header shifts when growl notice appears,"redmine,redmineID-574,redmine-Viralheat Product - Scrum",bug,accepted,03/15/2012 03:47 pm,03/15/2012 03:55 pm,The detached header shifts to the left when a growl notice appears.,0
+flash[:error] shows both an error and a notice,"redmine,redmineID-573,redmine-Viralheat Product - Scrum",bug,accepted,03/14/2012 04:35 pm,03/14/2012 06:26 pm,"",0
+Security audit of FB/Twitter actions to ensure user is owner of the account performing the action,"redmine,redmineID-572,redmine-Viralheat Product - Scrum",bug,unscheduled,03/14/2012 03:57 pm,,"",-1
+Publishing box allows publishing even if there is no message.,"redmine,redmineID-570,redmine-Viralheat Product - Scrum",bug,accepted,03/10/2012 07:46 am,03/11/2012 08:38 pm,"When I click Publish I have the 1/140 Chars text (and the memo contains one space). After selecting Twitter, the Publish button is enabled. After clicking Publish I am getting an error rails notification, ""Publish problems (empty character, hover ) Failed message."" The notification item on the history page that relates to this event does not have like the other items from the normal notifications (see NotificationError.png in attachements).
+",0
+Comments for Facebook Post Report down to the comments,"redmine,redmineID-569,redmine-Viralheat Product - Scrum",bug,accepted,03/10/2012 01:19 am,03/11/2012 09:49 pm,"There is an odd bug here. On this wall, there are 4 likes for the post. But see how the likes go to the comments too?",0
+Add platform facebook button,"redmine,redmineID-568,redmine-Viralheat Product - Scrum",bug,unscheduled,03/09/2012 05:25 pm,,"When you click 'add a platform' and esc out of the modal window the button state changes each time. When you are logged into facebook and it tells you to log out but when you esc out, the button disappears when you try to add the fb platform again",-1
+Twitter Reply CSS is broken on Profiles section.,"redmine,redmineID-567,redmine-Viralheat Product - Scrum",bug,accepted,03/08/2012 11:54 pm,03/13/2012 12:48 pm,"",0
+Retweet with a link in it is broken in History,"redmine,redmineID-566,redmine-Viralheat Product - Scrum",bug,unscheduled,03/08/2012 11:45 pm,,Retweet something from the twitter timeline with a link in it and the history is broken..,-1
+Original tweet is not displayed properly after retweeting (with no page load in between),"redmine,redmineID-565,redmine-Viralheat Product - Scrum",bug,accepted,03/07/2012 06:01 pm,03/11/2012 09:05 pm,"",0
+Retweet from mentions has a Javascript error,"redmine,redmineID-564,redmine-Viralheat Product - Scrum",bug,accepted,03/07/2012 05:59 pm,03/15/2012 02:06 pm,"",0
+Testing of Critical Routes,"redmine,redmineID-563,redmine-Viralheat Product - Scrum",chore,unscheduled,03/06/2012 04:08 pm,,"",-1
+Testing of Critical Routes,"redmine,redmineID-562,redmine-Viralheat Product - Scrum",chore,unscheduled,03/06/2012 04:07 pm,,"",-1
+Testing of Critical Routes,"redmine,redmineID-561,redmine-Viralheat Product - Scrum",chore,unscheduled,03/06/2012 04:07 pm,,"",-1
+Testing of critical routes,"redmine,redmineID-560,redmine-Viralheat Product - Scrum",feature,accepted,03/06/2012 03:37 pm,03/16/2012 10:37 am,"",0
+Move JS chunks from .erb to .js files,"redmine,redmineID-559,redmine-Viralheat Product - Scrum",feature,accepted,03/06/2012 03:35 pm,03/21/2012 11:05 am,"",0
+Move CSS chunks from .erb to .css files,"redmine,redmineID-558,redmine-Viralheat Product - Scrum",feature,accepted,03/06/2012 03:34 pm,03/21/2012 11:05 am,"",0
+Fix github vulnerability: mass assignment,"redmine,redmineID-557,redmine-Viralheat Product - Scrum",feature,unscheduled,03/06/2012 03:32 pm,,"",-1
+Designing and Coding the email template for,"redmine,redmineID-556,redmine-Viralheat Product - Scrum",feature,unscheduled,03/06/2012 03:12 pm,,"",-1
+Twitter Reply should not go out if no account is selected. The button should be disabled. ,"redmine,redmineID-555,redmine-Viralheat Product - Scrum",bug,accepted,03/06/2012 01:56 pm,03/07/2012 02:13 pm,"",0
+"Facebook pages are not coming on or the amount is low, may be because of the new timeline features","redmine,redmineID-554,redmine-Viralheat Product - Scrum",bug,unscheduled,03/06/2012 01:39 pm,,"This may be a bug, but we need to see why the facebook page updates are not coming in",-1
+Twitter Authors in Mentions have follower count as zero affecting the total impact score,"redmine,redmineID-553,redmine-Viralheat Product - Scrum",bug,unscheduled,03/06/2012 01:37 pm,,Explore what need to be done to fix this.,-1
+Beta Wave 2 (Customer Feedback),"redmine,redmineID-552,redmine-Viralheat Product - Scrum",feature,unscheduled,03/06/2012 01:35 pm,,"- Beta feedback from current users
+
+* Get the list of all the people who have done Beta Tests (Name, Title, Company)
+* Share Google Doc for all the beta customers.
+
+Alerts:
+
+Alerts being flexible.
+Alert you have lost x number of followers
+Not gaining any new followers
+
+** Separating is good (accounts/profiles)
+
+- Email tweets from account sections also - Do everything that they can do in Profiles in the accounts section.
+- Influencer graph.
+
+- Mark as leads in accounts
+- Mark sentiment in accounts
+
+- Explore making NOT's large in Adding a profile.
+
+** Reporting center.
+
+- More reporting functionality.
+- Always compare these reports, email me the report every week.
+- Alert in Dashboard, report is ready, PDF or Export to Excel
+
+- HootSuite offers to email the PDf'ed reports.
+- Do you want this report emailed.
+
+
+- Publish bar should stay static, so that the user can publish from anywhere. (floating Nav bar)
+
+- Google analytics integration
+- How much traffic are you driving from product pages to website 
+
+- Line colors do not export very well.
+- Colors to be different (Tools compare/combine section) - Lighter on top
+
+- Linkedin, G+, Google Analytics.
+- Yelp
+
+- YouTube as an account separately. (YouTube Followers and Fans)
+
+- Mobile apps. (HootSuite) - not using HootSuite
+
+- Choose URL Shortener (Choose from bit.ly, j.mp. ow.ly)
+
+- Current pricing model - New model ($500 - 15 profiles)
+
+
+- Explain grand-fathering to existing customers. Come up with a grand fathering scheme.
+- People do not know about the Tools section. (Check what you want to compare and contrast...) right from within the profile.
+
+- 
+
+-- Be more invasive (Tweets are Negative or anything blowing up, send me email right away)
+- Do more alerting - Emails, SMS, Notifications.
+- Need to know (Need to know something is going)
+- Set an Alert that this is a fire.
+- Facebook Likes as a daily report.
+- 5 top stats at the email.
+- Summary emails.
+- Setup a time when to be alerted, right away, once a day, once a week, once a month etc..
+
+- Hootsuite, wants in terms of Engagement -
+- Growl style notifications (When company accounts gets mentioned)
+- Group profiles into clusters. Streams.
+
+- Way too much money for Radian6.
+
+Agencies care more about reporting than engagement.
+Reporting center. customizable pieces PDF. Email the report to me at this specified time.
+
+
+- People signup, Contact us. Have additional fields. Involver, Wildfire, R6, HootSuite Enterprise (Start base at 2k)
+
+- Are they an agency,
+- Current tool used.
+- Business type, company, industry.
+
+""Tell us a bit more about you"" - $500 Plans.
+
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+",-1
+Integrate into YouTube Accounts,"redmine,redmineID-551,redmine-Viralheat Product - Scrum",feature,unscheduled,03/06/2012 01:34 pm,,"Develop connecting Viralheat with Google Properties like YouTube, Google Analytics, Google+
+
+- Connect and store YouTube Accounts.",-1
+Change onboarding process to get more details from the user ,"redmine,redmineID-550,redmine-Viralheat Product - Scrum",feature,unscheduled,03/06/2012 01:33 pm,,"1. Like are they an agency
+2. What tools they use right now
+3. what company are they from.",-1
+Make the top Publish bar to float when the user scrolls down to see additional mentions,"redmine,redmineID-549,redmine-Viralheat Product - Scrum",feature,accepted,03/06/2012 01:32 pm,03/13/2012 12:22 pm,"User has to scroll all the way back up to be able to publish something, let see if we can make the top nav bar as floating so user can publish from anywher.",0
+The Tipped Tips are not showing up for Mentions on Twitter or Websites when we go to the bottom part of the mentions screens,"redmine,redmineID-548,redmine-Viralheat Product - Scrum",bug,accepted,03/06/2012 01:31 pm,03/08/2012 03:12 pm,"The tipped tips for Twitter authors and website stats details are not working when scrolling to the bottom most part of the mentions sections.
+
+This happens in Profiles - Twitter Mentions, WEbsite Mentions.",0
+Add Email a Facebook Update feature to Facebook Accounts timeline,"redmine,redmineID-547,redmine-Viralheat Product - Scrum",feature,accepted,03/06/2012 01:30 pm,03/13/2012 05:10 pm,"Exactly like we have in the mentions section for Facebook pages, we need it for the Account sections as well for the Facebook wall.",0
+Add Email a Tweet feature to Twitter Accounts timeline,"redmine,redmineID-546,redmine-Viralheat Product - Scrum",feature,accepted,03/06/2012 01:29 pm,03/13/2012 05:10 pm,"Exactly like we have in the mentions section for Twitter, we need it for the Account sections as well.",0
+Add platform does not show proper actions depending on authentication state within Facebook,"redmine,redmineID-545,redmine-Viralheat Product - Scrum",bug,accepted,03/05/2012 01:41 pm,03/05/2012 02:33 pm,The option to connect facebook hangs in a pending state when the user is logged into Facebook. The option to logout of FB from the modal window disappears.,0
+Make sure that publishing box only allows to send messages on the pages and accounts that have is_tracked set to 1,"redmine,redmineID-544,redmine-Viralheat Product - Scrum",bug,accepted,03/04/2012 10:20 pm,03/06/2012 02:00 pm,"",0
+Update the Server monitoring scripts,"redmine,redmineID-543,redmine-Viralheat Product - Scrum",bug,unscheduled,03/04/2012 10:59 am,,We need to updated all our server monitoring scripts again and make sure they are working with the new infra setup.,-1
+The Wall needs to be revamped,"redmine,redmineID-542,redmine-Viralheat Product - Scrum",feature,unscheduled,03/04/2012 10:55 am,,"This is also a much larger project, but lets revamp the Mentions screen in the system.
+
+1. We will have a Unified Wall that can account for all media types.
+
+- Tweets, Facebook updates, Blogs, Videos, Pictures, Updates from Linkedin, Google+
+- These walls will have comments too.
+
+- lets come up with specs and let's start designing this wall.",-1
+Enhance Publishing Capabilities in Viralheat,"redmine,redmineID-541,redmine-Viralheat Product - Scrum",feature,unscheduled,03/04/2012 10:53 am,,"Currently it is very basic. Lets add more features to publishing and make it more robust.
+
+Below are high level specs, lets come up with a Mock and design it out.
+
+- Not all the features have to go out in one shot, lets keep all these in mind while designing and we can slowly push out feature by feature.
+
+
+Publishing Features:
+
+1. Ability to Schedule the post to be sent at a later time.
+- The user can schedule the tweet to be sent a specific time.
+- The use can setup recurring tweet or updates (to be sent out on all network or certain networks)
+- The system can suggest times to them to send the tweets out.
+
+2. Ability to Preview the message.
+- The user should be able to preview the message, as it is going to look once published on Twitter, Facebook and all support platforms.
+
+3. Ability to attached links.
+- The user should be able to attach links to the message that is published. 
+- The URL should be shortened. Currently using bit.ly but later we can add more options or have our own URL Shortener.
+
+4. User should be able to attach a location to the message published.
+- User can attach a location to the tweet.
+
+
+5. User should be able to attach or upload a picture to the message published..
+- We should store these pictures on our end on Amazon etc or pass it directly yo Twitter / Facebook
+- might need to store them if these tweets are scheduled to be sent out later.
+
+6. (Advanced feature) Ability to syndicate content from RSS feeds.
+- user should be able to attach their blog or RSS feed and as soon as a blog is published, it will go out on The pre-defined Twitter account.
+",-1
+Refactor Dashboard charts with the new total keys,"redmine,redmineID-540,redmine-Viralheat Product - Scrum",bug,unscheduled,03/04/2012 10:36 am,,"Once I get the total keys for the mentions for profiles, I will refactor the main dashboard charts.",-1
+The Account Mentions on Dashboard for Facebook is currently set to Fans,"redmine,redmineID-539,redmine-Viralheat Product - Scrum",bug,unscheduled,03/04/2012 10:25 am,,We need a key for Calculating the total Facebook page posts every day.. Facebook goes not give that right now.,-1
+Backend_ Database Connection Pool Library,"redmine,redmineID-538,redmine-Viralheat Product - Scrum",feature,unscheduled,03/03/2012 10:09 pm,,"Replace our current home grown solution with this library:
+
+http://tildeslash.com/libzdb/",-1
+Add Sentiment to Facebook accounts wall (and comments),"redmine,redmineID-537,redmine-Viralheat Product - Scrum",feature,unscheduled,03/03/2012 11:40 am,,"",-1
+Add Sentiment to Twitter accounts time line,"redmine,redmineID-536,redmine-Viralheat Product - Scrum",feature,unscheduled,03/03/2012 11:39 am,,"",-1
+Minor UI Polish on the Twitter and Facebook reply Publish boxes,"redmine,redmineID-534,redmine-Viralheat Product - Scrum",bug,accepted,03/01/2012 11:56 am,03/02/2012 01:38 pm,The UI is messed up right now specifically when replying to a tweet or commenting on a Facebook update.,0
+Twitter replies should include the @Twitter handle and not the Name of the user.,"redmine,redmineID-533,redmine-Viralheat Product - Scrum",bug,accepted,03/01/2012 09:39 am,03/01/2012 05:18 pm,"1. Twitter reply automatically takes the name of the user and now the @twitter handle.
+2. The reply box should have the @twitter handle pre-filled in the box, else the user will be adding and we are also adding it when we send a reply out.",0
+new image for viralheat facebook timeline,"redmine,redmineID-532,redmine-Viralheat Product - Scrum",feature,unscheduled,03/01/2012 09:25 am,,"",-1
+SPIKE: FacebookFanpages and Microblogs created by the frontend do not get their body's zlibbed,"redmine,redmineID-531,redmine-Viralheat Product - Scrum",feature,unscheduled,02/29/2012 03:01 pm,,The backend does zlib the ones generated (by the backend),-1
+In the publish/reply box there is no message that indicates that you have not yet selected any accounts to publish to,"redmine,redmineID-530,redmine-Viralheat Product - Scrum",bug,accepted,02/29/2012 02:48 pm,03/15/2012 04:38 pm,New users are not sure why they cannot publish. it is not easily apparent that they need to first select a publishing destination.,0
+External Service Facebook Accounts and UserFacebook Fanpages should be consistent. ,"redmine,redmineID-529,redmine-Viralheat Product - Scrum",bug,unscheduled,02/29/2012 02:03 pm,,"There may be a potential disconnect between The Facebook accounts connected 
+
+For e.g I am seeing 14 pages assigned to me in User Facebook Fanpages but only 2 are active.
+
+Need to revisit this entire logic.",-1
+Add an account should not let you add more accounts if you are over the number of allowed accounts based on your plan,"redmine,redmineID-528,redmine-Viralheat Product - Scrum",bug,accepted,02/29/2012 12:38 pm,03/09/2012 03:55 pm,"",0
+Change Icons on Amazon S3 for Emails,"redmine,redmineID-527,redmine-Viralheat Product - Scrum",bug,unscheduled,02/29/2012 12:22 am,,"",-1
+Refactor needed with the way we check if you are logged into facebook when linking accounts,"redmine,redmineID-526,redmine-Viralheat Product - Scrum",bug,unscheduled,02/28/2012 02:55 pm,,"This code is currently functioning due to hacks that ensure that facebook callback code is executed or (if not) execute some alternative code instructing the user to logout on facebook.com (with a link that pops in a new window). I believe the problem here is that _facebook.html.erb is loading the facebook div and JS file which are somehow destroyed and reloaded on each facebox (when clicking ""add account"") This seems to break several aspects of the Facebook JS SDK and callbacks or subscribed events no longer function and therefore the user cannot Logout through our app on any successive clicks to ""add account"" without a full page refresh.",-1
+Add Modules to Viralheat,"redmine,redmineID-525,redmine-Viralheat Product - Scrum",feature,unscheduled,02/27/2012 06:22 pm,,"- Twitter Bio Search Module
+- Facebook author and description search module.
+
+- Have some platform specific things under Modules. (Keep adding to this collection).",-1
+Use the de-authorize callback from Facebook to invalidate the user details.,"redmine,redmineID-524,redmine-Viralheat Product - Scrum",feature,unscheduled,02/27/2012 12:03 pm,,"",-1
+"Mock for Keyword counter for the add a profile screen.,","redmine,redmineID-523,redmine-Viralheat Product - Scrum",chore,accepted,02/27/2012 11:58 am,03/06/2012 03:52 pm,"",0
+Twitter Mentions sub menu option disappears once we move from Analytics back to Mentions.,"redmine,redmineID-522,redmine-Viralheat Product - Scrum",bug,unscheduled,02/27/2012 11:52 am,,"",-1
+Review all the code for instances where Microblog or Facebook records are retrieved without using the functions available in the models.,"redmine,redmineID-521,redmine-Viralheat Product - Scrum",bug,accepted,02/27/2012 11:49 am,02/29/2012 01:19 pm,"",0
+"Real time web mentions, the website details always shows Facebook.","redmine,redmineID-520,redmine-Viralheat Product - Scrum",bug,accepted,02/27/2012 11:43 am,03/01/2012 07:56 pm,"",0
+"Redesign ""Add a platform"" modal","redmine,redmineID-518,redmine-Viralheat Product - Scrum",feature,accepted,02/27/2012 11:27 am,02/27/2012 11:27 am,"Elvis mentioned earlier that he would be re-styling the modal window for this release.
+
+Vishal mentioned to make sure ""Facebook"" is referred to as ""Facebook Page"".",0
+Add titles to pages which are missing the titles.,"redmine,redmineID-517,redmine-Viralheat Product - Scrum",bug,accepted,02/27/2012 11:26 am,03/06/2012 02:24 pm,"",0
+Development of Onboarding Process,"redmine,redmineID-516,redmine-Viralheat Product - Scrum",feature,accepted,02/27/2012 11:24 am,02/27/2012 11:24 am,"",0
+Track activity of the users in Viralheat,"redmine,redmineID-515,redmine-Viralheat Product - Scrum",feature,unscheduled,02/26/2012 10:42 pm,,"This is more for BI, to understand what the users are doing, what features are working.. etc.",-1
+The Legend in all the charts should have a checkbox as well.,"redmine,redmineID-514,redmine-Viralheat Product - Scrum",feature,unscheduled,02/26/2012 10:20 pm,,"Something like this:
+
+
+http://flexdevtips.blogspot.com/2009/10/linechart-with-checkbox-legend.html
+",-1
+Beta Wave 1 (Customer Feedback),"redmine,redmineID-513,redmine-Viralheat Product - Scrum",chore,unscheduled,02/26/2012 09:17 pm,,"Feedback from:
+
+- Matt Martinez, Community Manager at Digg
+- John Boitnott, VP of Business Development at Hakai",-1
+Explain what is a lead better in Twitter Mentions screen,"redmine,redmineID-512,redmine-Viralheat Product - Scrum",feature,unscheduled,02/26/2012 09:13 pm,,"",-1
+Ability to tweet out stats and charts from Viralheat,"redmine,redmineID-511,redmine-Viralheat Product - Scrum",feature,unscheduled,02/26/2012 09:12 pm,,"- user should be able to tweet it out directly (and perhaps a link back to the Viralheat.com with a static chart.
+- user should be able to schedule it.
+",-1
+Add a snippet of blog and thought leadership in the product and main website,"redmine,redmineID-510,redmine-Viralheat Product - Scrum",feature,unscheduled,02/26/2012 09:11 pm,,"- TBD:
+
+Add perhaps the most recent blog as a small snippet on the website and also inside the product.",-1
+More email alerts in the Viralheat System,"redmine,redmineID-508,redmine-Viralheat Product - Scrum",feature,unscheduled,02/26/2012 09:08 pm,,"•	Alerts he’d like to see include:
+o	Mentions in press and/or by high influencers, threshold set by Viralheat but customizable by user
+o	Threshold for number of mentions and new followers over particular amount of time
+o	Text based alert independent of profile search “Let me now if someone mentions this particular thing about my account – i.e. ‘I hate Starbucks.’”
+",-1
+Each Demo video should be in a Facebox,"redmine,redmineID-507,redmine-Viralheat Product - Scrum",bug,unscheduled,02/26/2012 09:07 pm,,"Also, have a link at the bottom of the video that say, Sign up for a Free tria today.",-1
+Change the Home page to the new design with 5 features at the bottom of the main shot.,"redmine,redmineID-505,redmine-Viralheat Product - Scrum",bug,accepted,02/26/2012 09:05 pm,02/27/2012 01:46 pm,"",0
+subscription link changes to upgrade,"redmine,redmineID-504,redmine-Viralheat Product - Scrum",bug,accepted,02/24/2012 03:56 pm,03/06/2012 02:26 pm,"In the settings screen, when you click billing, the subscriptions link becomes upgrade, but when you click out it changes back.",0
+ERIN: Bug with top videos.,"redmine,redmineID-503,redmine-Viralheat Product - Scrum",bug,accepted,02/23/2012 03:44 pm,03/06/2012 02:27 pm,"",0
+ERIN: Viral video needs a help bubble,"redmine,redmineID-502,redmine-Viralheat Product - Scrum",bug,unscheduled,02/23/2012 03:43 pm,,"",-1
+ERIN: Swap domains and top countries in the RT web,"redmine,redmineID-501,redmine-Viralheat Product - Scrum",bug,accepted,02/23/2012 03:42 pm,02/27/2012 11:20 am,"",0
+ERIN: Put help bubble for realtime web statistics.,"redmine,redmineID-500,redmine-Viralheat Product - Scrum",feature,unscheduled,02/23/2012 03:42 pm,,"",-1
+ERIN: Put reports somewhere else?,"redmine,redmineID-499,redmine-Viralheat Product - Scrum",feature,unscheduled,02/23/2012 03:41 pm,,"",-1
+ERIN: Put lines in Top Mentions. Or make them one line. Information on hover.,"redmine,redmineID-497,redmine-Viralheat Product - Scrum",feature,unscheduled,02/23/2012 03:40 pm,,"",-1
+"ERIN: In twitter analytics. Swap the general statistics and the conversational analtyics with each other. Also, move top langauge and top day down.","redmine,redmineID-496,redmine-Viralheat Product - Scrum",feature,unscheduled,02/23/2012 03:38 pm,,"",-1
+"ERIN: TV logo for Viral Video, shoudl be black. Looks like a microwave.","redmine,redmineID-495,redmine-Viralheat Product - Scrum",feature,unscheduled,02/23/2012 03:37 pm,,"",-1
+ERIN: Make website icons for websites be icons instead of flags.,"redmine,redmineID-493,redmine-Viralheat Product - Scrum",feature,unscheduled,02/23/2012 03:36 pm,,"",-1
+Erin: Gear is confusing for profiles and it is also a gear icon for the options. Suggestions: Make profile sproket something else.,"redmine,redmineID-489,redmine-Viralheat Product - Scrum",feature,unscheduled,02/23/2012 03:33 pm,,"",-1
+Bootstrapper needs to be modified to save to cache since many things no longer read from db. Each developer needs to re-run the bootstrapper.,"redmine,redmineID-488,redmine-Viralheat Product - Scrum",bug,unscheduled,02/23/2012 01:49 pm,,"",-1
+ERIN: Would like to switch consumption and engaged user charts in the Engagement tab of the facebook page analytics screen.,"redmine,redmineID-487,redmine-Viralheat Product - Scrum",feature,unscheduled,02/22/2012 03:48 pm,,"",-1
+"ERIN: Remove ""legend"" for ""Engaged Users"" since that is the only graph.","redmine,redmineID-486,redmine-Viralheat Product - Scrum",feature,unscheduled,02/22/2012 03:46 pm,,"",-1
+ERIN: Combine Page Views and Page Reach tabs because there is too much dead space and there are too many clicks for just one graph.,"redmine,redmineID-484,redmine-Viralheat Product - Scrum",feature,unscheduled,02/22/2012 03:44 pm,,"",-1
+ERIN: Add marketing resources for dead space in Facebook Page analytics screen,"redmine,redmineID-483,redmine-Viralheat Product - Scrum",feature,unscheduled,02/22/2012 03:44 pm,,"",-1
+ERIN: Remove Fans Age Breakdown x-axis for personal facebook fanpages,"redmine,redmineID-482,redmine-Viralheat Product - Scrum",feature,unscheduled,02/22/2012 03:43 pm,,"",-1
+ERIN: Make zero weight line thicker for Likes Growth on Facebook perosnal anlaytics page.,"redmine,redmineID-481,redmine-Viralheat Product - Scrum",feature,unscheduled,02/22/2012 03:42 pm,,"",-1
+ERIN: Total Likes text and Total Reach text is too big for Facebook Personal Page analytics.,"redmine,redmineID-480,redmine-Viralheat Product - Scrum",feature,unscheduled,02/22/2012 03:42 pm,,"",-1
+ERIN: Remove Likes legend from chart in the Facebook Page graph since there is only one line.,"redmine,redmineID-479,redmine-Viralheat Product - Scrum",feature,unscheduled,02/22/2012 03:41 pm,,"",-1
+"ERIN: Facebook Mentions, should be able to share a facebook wall post on your personal wall.","redmine,redmineID-477,redmine-Viralheat Product - Scrum",feature,unscheduled,02/22/2012 03:39 pm,,"",-1
+ERIN:Facebook Page Wall. Add context option to hide a facebook post.,"redmine,redmineID-476,redmine-Viralheat Product - Scrum",feature,unscheduled,02/22/2012 03:38 pm,,"",-1
+"ERIN: MAJOR. On Facebook Page Walls, it is giving you the text the user entered for the poset but not the post itself. Happens on links mostly.","redmine,redmineID-475,redmine-Viralheat Product - Scrum",feature,unscheduled,02/22/2012 03:37 pm,,"",-1
+"ERIN: Change title of graph download to something more user friendly. Right now it says, ""Download as a vecotor or raster image"". Title only appears on hover.","redmine,redmineID-470,redmine-Viralheat Product - Scrum",feature,unscheduled,02/22/2012 03:33 pm,,"",-1
+ERIN: Graphs in the personal accounts are not downloadable as an image.,"redmine,redmineID-469,redmine-Viralheat Product - Scrum",feature,unscheduled,02/22/2012 03:32 pm,,"",-1
+ERIN: Twitter personal account needs to have some sort of excel sheet so that you can download all the stats.,"redmine,redmineID-468,redmine-Viralheat Product - Scrum",feature,unscheduled,02/22/2012 03:32 pm,,"",-1
+Add favorites to the twitter timeline for a user. So they can favorite the mentions.,"redmine,redmineID-467,redmine-Viralheat Product - Scrum",feature,accepted,02/22/2012 03:31 pm,03/09/2012 03:01 pm,Favorite a tweet from Twitter time line and Twitter mentions.,0
+RAJ: Context menu in the mentions has the wrong icons next to it.,"redmine,redmineID-466,redmine-Viralheat Product - Scrum",feature,unscheduled,02/22/2012 03:31 pm,,"",-1
+ERIN: Change gear for mentions to something else. Confusing the user.,"redmine,redmineID-465,redmine-Viralheat Product - Scrum",feature,unscheduled,02/22/2012 03:31 pm,,"",-1
+ERIN: Work on colors for graphs.�,"redmine,redmineID-462,redmine-Viralheat Product - Scrum",feature,unscheduled,02/22/2012 03:28 pm,,"",-1
+"ERIN: All charts, the clickable legend, it needs to be checkmarks or buttons or something.","redmine,redmineID-461,redmine-Viralheat Product - Scrum",feature,unscheduled,02/22/2012 03:27 pm,,"",-1
+ERIN: Move tools before history in the side nav,"redmine,redmineID-459,redmine-Viralheat Product - Scrum",feature,accepted,02/22/2012 03:21 pm,03/08/2012 09:36 pm,"",0
+When publishing messages from the queue OAuth Exceptions do not invalidate the respective account,"redmine,redmineID-458,redmine-Viralheat Product - Scrum",bug,accepted,02/22/2012 02:19 pm,03/01/2012 04:01 pm,"This works for other methods of publishing, just not from the queue.",0
+Refactor: Exception handling code for publishing has duplicate code in various places,"redmine,redmineID-457,redmine-Viralheat Product - Scrum",bug,unscheduled,02/22/2012 02:18 pm,,"",-1
+Backend - Elastic Search cannot currently track domain names.,"redmine,redmineID-456,redmine-Viralheat Product - Scrum",bug,unscheduled,02/22/2012 11:07 am,,"",-1
+Admin should be able to assume to be any user.,"redmine,redmineID-455,redmine-Viralheat Product - Scrum",feature,unscheduled,02/22/2012 10:48 am,,"",-1
+Account list page should have a short summary on the top?,"redmine,redmineID-454,redmine-Viralheat Product - Scrum",feature,unscheduled,02/22/2012 10:47 am,,"How many accounts are connected.
+If there are issues with any of the connected accounts?
+
+This will help the user fix those issues and no open support tickets which will be really hard to track.",-1
+Test to see what happens if the user goes inside Facebook and removes the Viralheat app?,"redmine,redmineID-453,redmine-Viralheat Product - Scrum",bug,unscheduled,02/22/2012 10:32 am,,"",-1
+User login succeptible to brute force,"redmine,redmineID-452,redmine-Viralheat Product - Scrum",bug,unscheduled,02/22/2012 10:21 am,,"",-1
+Feature for adding fees onto a recurring user's account through Paypal (one-time or recurring fees),"redmine,redmineID-451,redmine-Viralheat Product - Scrum",feature,unscheduled,02/22/2012 10:20 am,,"",-1
+System for handling users that are billed outside of Paypal (manual invoicing),"redmine,redmineID-450,redmine-Viralheat Product - Scrum",feature,unscheduled,02/22/2012 10:19 am,,"",-1
+Previous balance lost when subscription is modified,"redmine,redmineID-449,redmine-Viralheat Product - Scrum",bug,unscheduled,02/22/2012 10:18 am,,"",-1
+Backend - We are missing a lot of Twitter Mentions / Authors.,"redmine,redmineID-448,redmine-Viralheat Product - Scrum",bug,unscheduled,02/22/2012 09:54 am,,"Need to find a resolution for this as it is causing issues now and customers are complaining.
+
+Perhaps Skynet will fix this, or may be we need to deploy more nodes to do Twitter.",-1
+Twitter author name is not working on @Mentions,"redmine,redmineID-447,redmine-Viralheat Product - Scrum",bug,accepted,02/22/2012 12:39 am,03/06/2012 02:32 pm,"Also, the popup should be a  link so people know to click on it,",0
+Tools section is broken,"redmine,redmineID-446,redmine-Viralheat Product - Scrum",bug,accepted,02/22/2012 12:24 am,02/26/2012 07:12 pm,"",0
+UserFacebookFanPage functions for Publishable concerns - Review the below functions,"redmine,redmineID-445,redmine-Viralheat Product - Scrum",bug,accepted,02/21/2012 11:23 pm,02/29/2012 05:45 pm,"Most of the backed is zlib-ed these functions might not work. Lets review.
+
+  # This model implements the ""publishable"" concern
+  include Publishable   
+  
+  establish_connection :database_microblogs  
+
+  #
+  # This is required by the Publishable Concern
+  #
+  def _publish(user_id, message)    
+    begin      
+      ret = self.publish_facebook_location(message, user_id) 
+    rescue Exception => e
+      logger.info ""ERROR: #{e.to_s}""
+      case e.to_s
+      when ""OAuthException: Error validating application.""
+        # Invalidate this page
+        self.is_invalid = 1
+        self.save!
+      else
+        
+      end
+      # Throw other errors up the stack
+      raise e
+    end
+    return ret
+  end
+  
+  #
+  # This is also required by the Publishable Concern
+  #
+  def _name
+    # Get the fanpage name from the associated facebook_page record
+    fanpage = FacebookFanpages.find(:first, :conditions => ['record_key = ?', record_key])                                                          
+    raw_json = ActiveSupport::JSON.decode(fanpage.body)
+    return raw_json[""title""]
+  end
+  
+  #
+  # This is also required by the Publishable Concern
+  #
+  def _icon
+    record = FacebookFanpages.return_facebook_record(record_key)        
+    return record['profile_image']  
+  end
+   ",0
+Facebook Publishing failure should be handled and proper message should be shown to the user,"redmine,redmineID-444,redmine-Viralheat Product - Scrum",bug,accepted,02/21/2012 10:57 pm,02/23/2012 03:47 pm,"I just got these 2 error messages:
+
+{""record_key"":""FBFP:240543249327870"",""publishing_error"":""PUBLISHING_FAILURE"",""message"":""Test""}
+{""record_key"":""FBFP:240543249327870"",""publishing_error"":""OAuthException: (#506) Duplicate status message"",""message"":""Test""}
+
+Both are not handled correctly.
+
+This even affect history listing and History Breaks as well. This should be handled in the history as well and error should be shown to the user.",0
+User should be able to pick what Facebook pages they want to track in Viralheat,"redmine,redmineID-443,redmine-Viralheat Product - Scrum",bug,accepted,02/21/2012 10:34 pm,03/06/2012 02:01 pm,"Currently all the hooked pages are shown in Viralheat, we need to be able to limit based on the pan and also allow users to be able to select which one they can show in Viralheat.",0
+History should take care of Twitter replies etc,"redmine,redmineID-441,redmine-Viralheat Product - Scrum",bug,accepted,02/21/2012 10:08 pm,02/24/2012 03:10 pm,"Currently twitter replies are shown as Unknown in History
+
+
++      when ""twitter_reply"", ""twitter_reply_mention"", ""twitter_reply_retweet"":
+",0
+Twitter connect opens a new tab in Safari and Chrome,"redmine,redmineID-438,redmine-Viralheat Product - Scrum",bug,accepted,02/21/2012 09:57 pm,03/02/2012 10:50 am,Lets see if we can make this into a popup.,0
+Alert messages above the wizard window,"redmine,redmineID-437,redmine-Viralheat Product - Scrum",bug,unscheduled,02/21/2012 06:43 pm,,Wizard window and a few others are losing the alert message. ,-1
+Facebook Stream - Hidden Comments,"redmine,redmineID-436,redmine-Viralheat Product - Scrum",bug,accepted,02/21/2012 06:41 pm,03/01/2012 10:57 pm,"Right now, we should only 2 comments and there is an option where user can click to see all the other hidden comments. When the user clicks on that link ,the comments do show up and now the user can see all the comments but the link is still there to show the 4 hidden comments.
+
+See screenshot.",0
+Corner Case: You are no longer the admin of a page but you see it in your accounts list and try to view it.,"redmine,redmineID-435,redmine-Viralheat Product - Scrum",bug,accepted,02/21/2012 04:58 pm,02/22/2012 03:16 pm,"",0
+Add platform - Logout of Facebook disappears,"redmine,redmineID-434,redmine-Viralheat Product - Scrum",bug,accepted,02/21/2012 03:38 pm,02/28/2012 03:00 pm,The logout disappears when you go into the add platform a second time after you close the window. ,0
+Connecting Facebook account confirmation,"redmine,redmineID-433,redmine-Viralheat Product - Scrum",feature,unscheduled,02/21/2012 02:34 pm,,Research to see how to popup a message when the app is already installed by the user previously.,-1
+Pagination not working propelry on Twitter feed,"redmine,redmineID-432,redmine-Viralheat Product - Scrum",bug,accepted,02/21/2012 02:26 pm,02/21/2012 03:14 pm,"Specifically the ""show more tweets"" does not dissappear/appear properly
+
+also, the first 2 pages repeat themselves. It appears that requesting page 0 and page 1 give the same results from twitter.",0
+Get an ACL system going to prevent users from modifying records they don't own,"redmine,redmineID-431,redmine-Viralheat Product - Scrum",bug,unscheduled,02/21/2012 12:00 pm,,Several places probably modify records without an ownership check. This could result in issues.,-1
+Delete button all over the product should pop up a confirmation box.,"redmine,redmineID-429,redmine-Viralheat Product - Scrum",bug,accepted,02/20/2012 10:46 pm,03/06/2012 04:06 pm,"Check on Profiles screen
+Manage linked accounts screen.
+",0
+External service Connect Screen UI needs rework.,"redmine,redmineID-428,redmine-Viralheat Product - Scrum",bug,accepted,02/20/2012 10:01 pm,02/29/2012 03:25 pm,"https://s3.amazonaws.com/uploads.hipchat.com/13894/48313/ba588wu42qvtqej/Screen%20Shot%202012-02-20%20at%208.53.44%20PM.png
+
+
+Lets discuss on how to fix ths.",0
+Adding a profile without any params should give proper error,"redmine,redmineID-427,redmine-Viralheat Product - Scrum",bug,accepted,02/20/2012 10:00 pm,02/27/2012 10:51 am,"",0
+"When viewing your profile leads and clicking the checkbox for a lead, JS Error: update_checks is not defined","redmine,redmineID-426,redmine-Viralheat Product - Scrum",bug,unscheduled,02/20/2012 03:20 pm,,"",-1
+Backend Should invalidate the access token for a page if the user does not have access to it,"redmine,redmineID-425,redmine-Viralheat Product - Scrum",bug,accepted,02/20/2012 02:33 pm,03/06/2012 02:33 pm,"When getting Facebook insights data for a page, if for some reason we cannot get it or user does not have access to the page any more. mark that page as Invalid.
+
+Also, test it to make sure this actually works with the front end.",0
+Emailing mentions from FB or Twitter is no longer a popup and the form submission does not actually send an email from QA,"redmine,redmineID-424,redmine-Viralheat Product - Scrum",bug,unscheduled,02/17/2012 05:57 pm,,"",-1
+Clicking several times on the menu tab that displays your Twitter feed results in pagination issues,"redmine,redmineID-422,redmine-Viralheat Product - Scrum",bug,accepted,02/17/2012 02:52 pm,02/21/2012 10:56 am,Each click seems to paginate.,0
+Publish Box is broken,"redmine,redmineID-420,redmine-Viralheat Product - Scrum",bug,accepted,02/17/2012 01:32 pm,02/17/2012 03:56 pm,See attached screen shot,0
+"Publishing box dropdown shows the same ""publish as"" twice if you have more than one account owning the same page","redmine,redmineID-419,redmine-Viralheat Product - Scrum",bug,accepted,02/17/2012 11:03 am,02/24/2012 11:14 am,"",0
+Fix context menus for invalid FB accounts / pages on Accounts#list,"redmine,redmineID-417,redmine-Viralheat Product - Scrum",bug,accepted,02/17/2012 10:09 am,02/27/2012 11:29 am,"This bug surfaced as a side effect of #416.
+
+Within Accounts#list
+
+When a FB account is invalid, previously created pages need to have the parent FB account's access token updated.	
+
+If the FB page is invalid, the user should not be given any options within the context menu to revalidate.",0
+Duplicate FB Pages on Accounts#list,"redmine,redmineID-416,redmine-Viralheat Product - Scrum",bug,accepted,02/17/2012 10:05 am,02/21/2012 04:56 pm,"A single duplicate FB page is listed as invalid on the Accounts#list when linking a secondary FB account.
+
+This duplicate page disappears when the secondary FB account is removed.
+
+",0
+Gracefully handle a broken facebook or twitter application key,"redmine,redmineID-415,redmine-Viralheat Product - Scrum",bug,accepted,02/16/2012 04:53 pm,02/16/2012 06:34 pm,currently results in a 500 error,0
+Releasing the billing crons that were developed to handle things like skipped payments,"redmine,redmineID-414,redmine-Viralheat Product - Scrum",bug,unscheduled,02/16/2012 04:26 pm,,"",-1
+Enable FB Mention Engagement (Depends on 412),"redmine,redmineID-413,redmine-Viralheat Product - Scrum",feature,unscheduled,02/15/2012 05:41 pm,,"",-1
+Backend: Start storing the comment ID for facebook comments (FBFPC records),"redmine,redmineID-412,redmine-Viralheat Product - Scrum",feature,unscheduled,02/15/2012 05:37 pm,,"",-1
+Moving UserFacebookFanpages#get_fanpages to a background process,"redmine,redmineID-411,redmine-Viralheat Product - Scrum",feature,unscheduled,02/15/2012 03:58 pm,,"Will move UserFacebookFanpages#get_fanpages to a background process to reduce page load times when loading Accounts#list
+
+As it is now, for every possible page a user has created with their Facebook account would add to the number of requests #get_fanpages would have to make to query the FB for data.",-1
+There is no way to know if you previously responded to a specific mention from the mentions screen.,"redmine,redmineID-410,redmine-Viralheat Product - Scrum",feature,unscheduled,02/15/2012 03:18 pm,,"",-1
+Refactor needed with direct references to facebook/twitter in order to more easily scale to multiple networks,"redmine,redmineID-409,redmine-Viralheat Product - Scrum",bug,unscheduled,02/15/2012 11:11 am,,there are tons of direct references to fb and twitter and it could probably be abstracted to more of a plugin style architecture,-1
+"When connecting a FB account, fanpages are assigned the wrong user id resulting in failure to publish.","redmine,redmineID-408,redmine-Viralheat Product - Scrum",bug,accepted,02/14/2012 04:49 pm,02/22/2012 10:12 am,"user_facebook_fanpages records were incorrectly assigning user_id due to assigning it UserSession.find.user, which returns a boolean value. Explicitly using UserSession.find.user.id correctly assigns user_facebook_fanpages records to the proper user ID.",0
+/linked_accounts does not display newly added Facebook accounts without Fan Pages,"redmine,redmineID-407,redmine-Viralheat Product - Scrum",bug,accepted,02/14/2012 03:27 pm,03/06/2012 06:04 pm,"If a user connects a Facebook account that has no Fan Pages to their VH account, it *does not* show up in Accounts#list ",0
+Use social media channels to promote your analytics data,"redmine,redmineID-406,redmine-Viralheat Product - Scrum",feature,unscheduled,02/14/2012 03:05 pm,,"",-1
+Twitter account with no previous history causes template errors on /accounts/list,"redmine,redmineID-405,redmine-Viralheat Product - Scrum",bug,accepted,02/14/2012 02:33 pm,02/17/2012 03:10 pm,"",0
+Engagement Reply box account selection (for mentions) should be a radio button and not a multi-select,"redmine,redmineID-402,redmine-Viralheat Product - Scrum",bug,accepted,02/10/2012 11:09 am,02/23/2012 05:11 pm,Because you can only reply from a single account,0
+generate daily report of new customers,"redmine,redmineID-401,redmine-Viralheat Product - Scrum",feature,unscheduled,02/09/2012 11:19 am,,"",-1
+Twitter Mentions do not pull the original tweet id for retweets,"redmine,redmineID-399,redmine-Viralheat Product - Scrum",bug,accepted,02/08/2012 03:51 pm,02/26/2012 06:29 pm,This might also be relevant for replies.,0
+Cannot retweet a retweet in Twitter Timeline. This should be possible,"redmine,redmineID-398,redmine-Viralheat Product - Scrum",bug,unscheduled,02/08/2012 03:39 pm,,This should be possible by resolving the original tweet id and then retweeting that.,-1
+Use API to pull sentiment,"redmine,redmineID-397,redmine-Viralheat Product - Scrum",feature,unscheduled,02/08/2012 03:38 pm,,"",-1
+Add character count on user profiles,"redmine,redmineID-396,redmine-Viralheat Product - Scrum",feature,accepted,02/08/2012 02:44 pm,03/07/2012 01:08 pm,"",0
+Billing Enhancements,"redmine,redmineID-392,redmine-Viralheat Product - Scrum",chore,unscheduled,02/07/2012 11:12 am,,"",-1
+Biling System Upgrades,"redmine,redmineID-391,redmine-Viralheat Product - Scrum",chore,unscheduled,02/07/2012 11:12 am,,"",-1
+Actual Production Deployment,"redmine,redmineID-380,redmine-Viralheat Product - Scrum",feature,unscheduled,02/07/2012 10:33 am,,"",-1
+Add Twitter/Facebook engagement features to Mentions,"redmine,redmineID-376,redmine-Viralheat Product - Scrum",feature,accepted,02/07/2012 10:21 am,02/27/2012 11:41 am,"",0
+Invoice and Billing Email Reminders (HTML Emails),"redmine,redmineID-375,redmine-Viralheat Product - Scrum",feature,unscheduled,02/07/2012 10:18 am,,"",-1
+Epic: Billing System Upgrades - Part 1,"redmine,redmineID-371,redmine-Viralheat Product - Scrum",feature,accepted,02/06/2012 05:14 pm,02/07/2012 11:13 am,"",0
+Copy for onboarding process,"redmine,redmineID-365,redmine-Viralheat Product - Scrum",chore,unscheduled,02/06/2012 05:05 pm,,"",-1
+Development of Onboarding PRocess,"redmine,redmineID-364,redmine-Viralheat Product - Scrum",chore,unscheduled,02/06/2012 05:05 pm,,"",-1
+Development of Onboarding Process,"redmine,redmineID-363,redmine-Viralheat Product - Scrum",chore,unscheduled,02/06/2012 05:03 pm,,"",-1
+Allow account creation for Twitter,"redmine,redmineID-362,redmine-Viralheat Product - Scrum",feature,unscheduled,02/06/2012 04:51 pm,,"",-1
+Epic: Deployment Automation (Continuous Integration) - Part 2,"redmine,redmineID-360,redmine-Viralheat Product - Scrum",feature,started,02/06/2012 04:44 pm,,"",0
+Epic: Test harnesses for server - Part 2,"redmine,redmineID-359,redmine-Viralheat Product - Scrum",feature,unscheduled,02/06/2012 04:41 pm,,"",-1
+"Add ""join us"" Facebook & Twitter buttons on viralheat.com","redmine,redmineID-356,redmine-Viralheat Product - Scrum",feature,unscheduled,02/06/2012 11:02 am,,"",-1
+Add tick boxes next to each profile (for 2.0/1.4),"redmine,redmineID-355,redmine-Viralheat Product - Scrum",feature,unscheduled,02/02/2012 04:26 pm,,"",-1
+Tabbed interface for VH Widget,"redmine,redmineID-354,redmine-Viralheat Product - Scrum",feature,unscheduled,02/02/2012 04:18 pm,,"",-1
+"Continue: Fix the backend issue with STM02, currently we have a cron job that assigns the Stats node to profiles.","redmine,redmineID-351,redmine-Viralheat Product - Scrum",chore,unscheduled,01/30/2012 05:25 pm,,"",-1
+Onboarding step: Pop-up on the dashboard that notifies existing customers about the new features.,"redmine,redmineID-350,redmine-Viralheat Product - Scrum",feature,accepted,01/25/2012 03:28 pm,03/09/2012 02:46 pm,"",0
+Add some text and link to daily digest emails.,"redmine,redmineID-349,redmine-Viralheat Product - Scrum",feature,unscheduled,01/25/2012 03:25 pm,,"",-1
+Epic: Website Copy Editing and Review - Part 1,"redmine,redmineID-348,redmine-Viralheat Product - Scrum",feature,accepted,01/23/2012 12:32 pm,02/06/2012 04:38 pm,"",0
+Facebook Stats & Twitter Timeline (deployment & testing),"redmine,redmineID-345,redmine-Viralheat Product - Scrum",chore,unscheduled,01/23/2012 12:01 pm,,"",-1
+Facebook Stats & Twitter Timeline (deployment & testing),"redmine,redmineID-344,redmine-Viralheat Product - Scrum",chore,unscheduled,01/23/2012 12:01 pm,,"",-1
+Epic: Deployment Automation (Continuous Integration) - Part 1,"redmine,redmineID-343,redmine-Viralheat Product - Scrum",feature,accepted,01/23/2012 11:41 am,02/06/2012 04:44 pm,"",0
+Epic: Test harnesses for server - Part 1,"redmine,redmineID-342,redmine-Viralheat Product - Scrum",feature,accepted,01/23/2012 11:35 am,02/06/2012 05:21 pm,"",0
+Epic: About Static Page (copy and images) - Part 4,"redmine,redmineID-340,redmine-Viralheat Product - Scrum",feature,accepted,01/23/2012 10:31 am,02/06/2012 05:11 pm,copy and images,0
+Epic: Create onboarding process for 1.4 - Part 2,"redmine,redmineID-337,redmine-Viralheat Product - Scrum",feature,accepted,01/23/2012 10:24 am,02/06/2012 05:09 pm,"The new onboarding process should cover:
+
+0. Entering your info
+1. Connecting you accounts.
+2. Adding profiles, if you are a paid plan.
+3. Watching videos.
+
+How to build a profile page for version 1.4",0
+Epic: Facebook Stats & Twitter Timeline (deployment & testing) - Part 2,"redmine,redmineID-336,redmine-Viralheat Product - Scrum",feature,accepted,01/23/2012 10:22 am,02/06/2012 04:48 pm,"",0
+Homepage Images and Revisions,"redmine,redmineID-335,redmine-Viralheat Product - Scrum",chore,unscheduled,01/23/2012 10:09 am,,"",-1
+Epic: Homepage Redesign (images and copy) - Part 3,"redmine,redmineID-334,redmine-Viralheat Product - Scrum",feature,accepted,01/23/2012 10:08 am,02/06/2012 04:11 pm,"",0
+Epic: Ability to follow somebody from Twitter mentions - Part 2,"redmine,redmineID-330,redmine-Viralheat Product - Scrum",feature,unscheduled,01/23/2012 10:00 am,,"",-1
+Contractor: DNF to english screen,"redmine,redmineID-326,redmine-Viralheat Product - Scrum",feature,unscheduled,01/20/2012 12:16 pm,,"",-1
+Compute Reach/Impressions for Each Post on Twitter.,"redmine,redmineID-325,redmine-Viralheat Product - Scrum",feature,unscheduled,01/18/2012 07:11 pm,,"",-1
+Have the ability to delete individual mentions from a profile.,"redmine,redmineID-324,redmine-Viralheat Product - Scrum",feature,unscheduled,01/18/2012 07:09 pm,,"",-1
+Epic: Create onboarding process for 1.4 - Part 1,"redmine,redmineID-317,redmine-Viralheat Product - Scrum",feature,accepted,01/06/2012 02:44 pm,01/23/2012 10:47 am,"The new onboarding process should cover:
+
+0. Entering your info
+1. Connecting you accounts.
+2. Adding profiles, if you are a paid plan.
+3. Watching videos.
+
+How to build a profile page for version 1.4",0
+Homepage Images and Revisions,"redmine,redmineID-316,redmine-Viralheat Product - Scrum",chore,unscheduled,01/06/2012 02:22 pm,,"",-1
+Homepage Copy,"redmine,redmineID-315,redmine-Viralheat Product - Scrum",chore,unscheduled,01/06/2012 02:22 pm,,"",-1
+Adding Bitly and other URL Shortneres support via Oauth and adding to publishing/commenting box?,"redmine,redmineID-311,redmine-Viralheat Product - Scrum",feature,unscheduled,01/06/2012 01:46 pm,,"This is again part of publishing, moving this to adam.",-1
+Epic: Facebook Stats & Twitter Timeline - Part 1,"redmine,redmineID-310,redmine-Viralheat Product - Scrum",feature,accepted,01/06/2012 01:45 pm,01/23/2012 10:34 am,"",0
+CSS Tweaks to publishing box,"redmine,redmineID-308,redmine-Viralheat Product - Scrum",chore,unscheduled,01/06/2012 01:30 pm,,"",-1
+Epic: Ability to unfollow somebody from Twitter timeline - Part 1,"redmine,redmineID-307,redmine-Viralheat Product - Scrum",feature,accepted,01/06/2012 01:26 pm,01/23/2012 10:35 am,"",0
+Epic: Copy for features page and help video page - Part 1,"redmine,redmineID-305,redmine-Viralheat Product - Scrum",feature,accepted,01/06/2012 01:15 pm,01/23/2012 10:36 am,"",0
+Design & Coding the display of new statistics in product,"redmine,redmineID-304,redmine-Viralheat Product - Scrum",chore,unscheduled,01/06/2012 01:09 pm,,"",-1
+Working with Contractor and Integrating with Frontend,"redmine,redmineID-303,redmine-Viralheat Product - Scrum",chore,unscheduled,01/06/2012 01:09 pm,,"",-1
+Epic: Backend+Frontend: Twitter Features/Functionalities (Integration w/ Contractor) - Part 1,"redmine,redmineID-302,redmine-Viralheat Product - Scrum",feature,unscheduled,01/06/2012 01:09 pm,,"Here's a list of functionalities that would be cool. I might need to explain some of them:
+
+* Breakdown of top influencer mentions across my brand v. competitors
+* Breakdown of top influencer mentions across industry keywords & my brand
+* Breakdown of this top influencer v. other industry influencers
+* Geographies with the most influential users and the top topics in that geo
+* Top 10 positive influencers
+* Top 10 negative influencers
+* Most retweeted post from my brand/handle
+* Most responded to tweet/post from my brand/handle
+* Most popular post person from my company (when seat management available)
+* Business/Brand influencers v. Personal influencers (the difference between seeing that Huffington Post is an influencer in your industry versus an individual like @JohnSmith)
+* Breakdown of: Topics v. Direct Mentions v. Retweets
+",-1
+Design Revisions to Plan Selection Page + Code,"redmine,redmineID-299,redmine-Viralheat Product - Scrum",chore,unscheduled,01/06/2012 12:49 pm,,"",-1
+Plan Selection page copy,"redmine,redmineID-298,redmine-Viralheat Product - Scrum",chore,unscheduled,01/06/2012 12:49 pm,,"",-1
+Epic: Feature select splash - Part 2,"redmine,redmineID-297,redmine-Viralheat Product - Scrum",feature,accepted,01/06/2012 12:48 pm,01/23/2012 10:39 am,"",0
+Copy changes,"redmine,redmineID-296,redmine-Viralheat Product - Scrum",chore,unscheduled,01/06/2012 12:44 pm,,"",-1
+Add bitly as an external platform,"redmine,redmineID-295,redmine-Viralheat Product - Scrum",feature,unscheduled,01/06/2012 12:41 pm,,"",-1
+Update Icons for FB/Twitter,"redmine,redmineID-294,redmine-Viralheat Product - Scrum",chore,unscheduled,01/06/2012 12:40 pm,,"",-1
+Fix platform counter,"redmine,redmineID-293,redmine-Viralheat Product - Scrum",chore,unscheduled,01/06/2012 12:40 pm,,"",-1
+Epic; Twitter/Facebook Publishing Lightbox UI - Polish - part 2,"redmine,redmineID-292,redmine-Viralheat Product - Scrum",feature,accepted,01/06/2012 12:39 pm,01/23/2012 10:38 am,"",0
+Epic: All help bubble copy - Part 1,"redmine,redmineID-291,redmine-Viralheat Product - Scrum",feature,accepted,01/06/2012 12:35 pm,01/23/2012 10:39 am,"",0
+Epic: Homepage Redesign (images and copy) - Part 2,"redmine,redmineID-290,redmine-Viralheat Product - Scrum",feature,accepted,01/06/2012 12:29 pm,01/23/2012 10:40 am,"",0
+Epic: About Static Page (copy and images) - Part 3,"redmine,redmineID-289,redmine-Viralheat Product - Scrum",feature,accepted,01/06/2012 12:24 pm,01/23/2012 10:40 am,copy and images,0
+Epic: Features - Personal and Business - Part 1,"redmine,redmineID-286,redmine-Viralheat Product - Scrum",feature,accepted,01/06/2012 11:29 am,01/23/2012 11:22 am,"",0
+Visual Polish of Twitter/Facebook Commenting Box,"redmine,redmineID-284,redmine-Viralheat Product - Scrum",chore,unscheduled,01/06/2012 09:48 am,,"What new features does this include, if any?",-1
+Rewrite data sensors to use elastic search,"redmine,redmineID-280,redmine-Viralheat Product - Scrum",chore,unscheduled,01/04/2012 11:03 am,,"",-1
+Make a way of invalidating page access tokens and warning the user about such invalidation,"redmine,redmineID-274,redmine-Viralheat Product - Scrum",chore,unscheduled,12/19/2011 02:40 pm,,"",-1
+Add Character Count feature,"redmine,redmineID-272,redmine-Viralheat Product - Scrum",chore,unscheduled,12/19/2011 02:37 pm,,The publishing box should disable twitter publishing after a certain character count is reached,-1
+Design & Coding the display of new Twitter statistics in product,"redmine,redmineID-271,redmine-Viralheat Product - Scrum",chore,unscheduled,12/19/2011 02:34 pm,,"",-1
+Working with Contractor and Integrating with Frontend,"redmine,redmineID-270,redmine-Viralheat Product - Scrum",chore,unscheduled,12/19/2011 02:33 pm,,"",-1
+Homepage Coding,"redmine,redmineID-269,redmine-Viralheat Product - Scrum",chore,unscheduled,12/19/2011 02:26 pm,,"Raj: Coding
+Copywriter: Needs new copy for homepage",-1
+"Homepage: Wireframing, Slider Images, Applying screenshots","redmine,redmineID-268,redmine-Viralheat Product - Scrum",chore,unscheduled,12/19/2011 02:25 pm,,"Elvis: Wireframing
+Elvis: Slider Images
+Elvis: Applying new screenshots to the homepage
+",-1
+Press Page - Debt,"redmine,redmineID-254,redmine-Viralheat Product - Scrum",feature,unscheduled,12/15/2011 02:02 pm,,"",-1
+Press - Viralheat in the press (debt),"redmine,redmineID-253,redmine-Viralheat Product - Scrum",feature,unscheduled,12/15/2011 02:02 pm,,"",-1
+"Add more stats to Facebook, ike averages and up or down from the past period. Each Period should have a hover tip to show how the change was computed.","redmine,redmineID-252,redmine-Viralheat Product - Scrum",feature,unscheduled,12/15/2011 01:48 pm,,"",-1
+Compute Facebook Page Analytics Stats (Running Ticket),"redmine,redmineID-251,redmine-Viralheat Product - Scrum",feature,unscheduled,12/15/2011 01:45 pm,,"",-1
+Add Sentiment analysis to Facebook Time line (Very much like the Chrome plugin),"redmine,redmineID-250,redmine-Viralheat Product - Scrum",feature,unscheduled,12/15/2011 01:44 pm,,"",-1
+Add Translation feature to Viralheat. Lets explore the Google Translate Paid API's and also MyGengo.,"redmine,redmineID-249,redmine-Viralheat Product - Scrum",feature,unscheduled,12/14/2011 10:02 am,,"",-1
+Ability for Marketing Team to create Social Trends Charts,"redmine,redmineID-247,redmine-Viralheat Product - Scrum",feature,unscheduled,12/12/2011 04:21 pm,,"",-1
+Integration Piece,"redmine,redmineID-245,redmine-Viralheat Product - Scrum",chore,unscheduled,12/12/2011 03:05 pm,,"",-1
+Create infrastructure for front-end render testing,"redmine,redmineID-240,redmine-Viralheat Product - Scrum",feature,unscheduled,12/07/2011 03:22 pm,,"",-1
+Integration Piece,"redmine,redmineID-239,redmine-Viralheat Product - Scrum",chore,unscheduled,12/07/2011 01:41 pm,,"",-1
+Parse the return data and populate the Author and Tweet vector objects ,"redmine,redmineID-238,redmine-Viralheat Product - Scrum",chore,unscheduled,12/07/2011 01:33 pm,,"",-1
+Making Http call to get the complete timeline of the user in a json object,"redmine,redmineID-237,redmine-Viralheat Product - Scrum",chore,started,12/07/2011 01:31 pm,,"",0
+Facebook Page Analytics: Instructional text for each section,"redmine,redmineID-233,redmine-Viralheat Product - Scrum",chore,unscheduled,12/07/2011 12:46 pm,,"",-1
+Facebook Page Analytics: Visual polish of Analytics Page,"redmine,redmineID-232,redmine-Viralheat Product - Scrum",chore,unscheduled,12/07/2011 12:45 pm,,"",-1
+Facebook Page Analytics: Functional setup of page that lays out all analytics,"redmine,redmineID-231,redmine-Viralheat Product - Scrum",chore,unscheduled,12/07/2011 12:44 pm,,"",-1
+Visual Polish of Publishing Lightbox,"redmine,redmineID-230,redmine-Viralheat Product - Scrum",chore,unscheduled,12/07/2011 11:02 am,,"",-1
+Functional Coding of Lightbox,"redmine,redmineID-229,redmine-Viralheat Product - Scrum",chore,unscheduled,12/07/2011 11:01 am,,Includes implementation of all features depicted within the design image except those related to location. Also the publishing box only currently supports text.,-1
+Creation of assets for publishing box & assistance with visual polish,"redmine,redmineID-228,redmine-Viralheat Product - Scrum",chore,unscheduled,12/07/2011 11:00 am,,"",-1
+Update 'Add new profile' wizard page,"redmine,redmineID-225,redmine-Viralheat Product - Scrum",feature,accepted,12/06/2011 05:30 pm,01/23/2012 04:49 pm,"",0
+Contact Us Page with a Thank you page,"redmine,redmineID-224,redmine-Viralheat Product - Scrum",feature,accepted,12/06/2011 05:20 pm,01/23/2012 04:49 pm,"",0
+Admin can assume to be any user for debugging purpose. Admin can login as any user in the system.,"redmine,redmineID-221,redmine-Viralheat Product - Scrum",feature,unscheduled,12/06/2011 05:01 pm,,"",-1
+Visual Polish of Twitter Feed,"redmine,redmineID-218,redmine-Viralheat Product - Scrum",chore,unscheduled,12/06/2011 04:13 pm,,"",-1
+Spike: publishing to a page needs to support choosing to publish as user or page,"redmine,redmineID-216,redmine-Viralheat Product - Scrum",chore,unscheduled,12/06/2011 03:48 pm,,"",-1
+Epic: Engagement for Facebook & Twitter - Part 3,"redmine,redmineID-215,redmine-Viralheat Product - Scrum",feature,unscheduled,12/06/2011 01:00 pm,,"",-1
+"Facebook: individual cells should reload for post or like, not the whole page","redmine,redmineID-213,redmine-Viralheat Product - Scrum",chore,unscheduled,12/06/2011 10:29 am,,"",-1
+Facebook: Log likes,"redmine,redmineID-212,redmine-Viralheat Product - Scrum",chore,unscheduled,12/06/2011 10:28 am,,"",-1
+Facebook & Twitter: Log post/tweet deletions,"redmine,redmineID-211,redmine-Viralheat Product - Scrum",chore,unscheduled,12/06/2011 10:28 am,,"",-1
+Adding Search Functionality in Viralheat Dashboard,"redmine,redmineID-207,redmine-Viralheat Product - Scrum",feature,unscheduled,11/30/2011 12:07 am,,User should be able to search for specific mentions in entire account / streams.,-1
+Clarify (add additional) instructional text re: location filter restrictions,"redmine,redmineID-206,redmine-Viralheat Product - Scrum",feature,unscheduled,11/30/2011 12:03 am,,"We need to add a note to help people understand the restrictions of using this feature. It will definitely help cut down unnecessary support requests.
+
+
+Vishal Note - Can you be more specific, what kind of issues you are seeing, what language needs to be changes?
+",-1
+Clarify (add additional) instructional text re: location filter restrictions,"redmine,redmineID-205,redmine-Viralheat Product - Scrum",feature,unscheduled,11/30/2011 12:01 am,,"We need to add a note to help people understand the restrictions of using this feature. It will definitely help cut down unnecessary support requests.
+
+Vishal Note - Can you be more specific, what kind of issues you are seeing, what language needs to be changes?",-1
+Clarify (add additional) instructional text re: search term character limits,"redmine,redmineID-204,redmine-Viralheat Product - Scrum",feature,unscheduled,11/30/2011 12:01 am,,"We need to add a note to help people understand the restrictions of search term entry. It will definitely help cut down unnecessary support requests.
+
+Vishal Note - Can you be more specific, what kind of issues you are seeing, what language needs to be changes?",-1
+Customer Support - Salesforce Service Cloud,"redmine,redmineID-202,redmine-Viralheat Product - Scrum",chore,unscheduled,11/29/2011 11:55 pm,,"",-1
+Customer Support - Zendesk,"redmine,redmineID-201,redmine-Viralheat Product - Scrum",chore,unscheduled,11/29/2011 11:55 pm,,"",-1
+Marketing Automation - Eloqua,"redmine,redmineID-200,redmine-Viralheat Product - Scrum",chore,unscheduled,11/29/2011 11:54 pm,,"",-1
+Marketing Automation - Marketo,"redmine,redmineID-199,redmine-Viralheat Product - Scrum",chore,unscheduled,11/29/2011 11:54 pm,,"",-1
+CRM integration - Highrise,"redmine,redmineID-198,redmine-Viralheat Product - Scrum",chore,unscheduled,11/29/2011 11:54 pm,,"",-1
+Web Analytics Integration - Overall,"redmine,redmineID-196,redmine-Viralheat Product - Scrum",chore,unscheduled,11/29/2011 11:52 pm,,"Clicky
+Woopra
+",-1
+Web Analytics Integration - Omniture,"redmine,redmineID-195,redmine-Viralheat Product - Scrum",chore,unscheduled,11/29/2011 11:52 pm,,TBD,-1
+Web Analytics Integration - Google Analytics,"redmine,redmineID-194,redmine-Viralheat Product - Scrum",chore,unscheduled,11/29/2011 11:52 pm,,"",-1
+CRM integration - Oracle,"redmine,redmineID-193,redmine-Viralheat Product - Scrum",chore,unscheduled,11/29/2011 11:51 pm,,"",-1
+CRM integration - Microsoft Dynamic CRM,"redmine,redmineID-192,redmine-Viralheat Product - Scrum",chore,unscheduled,11/29/2011 11:51 pm,,"",-1
+CRM integration - Netsuite,"redmine,redmineID-191,redmine-Viralheat Product - Scrum",chore,unscheduled,11/29/2011 11:51 pm,,"",-1
+Viralheat Enterprise Integration,"redmine,redmineID-190,redmine-Viralheat Product - Scrum",feature,unscheduled,11/29/2011 11:49 pm,,"",-1
+Overall (All other Datasources),"redmine,redmineID-189,redmine-Viralheat Product - Scrum",chore,unscheduled,11/29/2011 11:48 pm,,"Please add new data sources related feature requests to this ticket.
+---------------------------------------------------------
+*Publishing:*
+
+Tumblr
+Wordpress
+
+*Video Sharing:*
+Vimeo
+Metacafe
+DailyMotion
+Hulu
+
+*Photo Sharing:*
+Flickr
+Instagram
+
+*Bookmarking Sites:*
+
+Google Bookmarks
+Digg
+Delicious
+StumbleUpon
+
+
+*Travel Related Sites:*
+
+Orbitz
+TripAdvisor
+Expedia
+
+*Reviews:*
+
+Yelp Reviews
+Amazon Reviews
+iTunes reviews
+
+*Comments:*
+
+Comments from all the Sites above that allow commenting.
+Comments from YouTube and other video sharing sites. 
+Comments from Wordpress
+Comments from Disqus
+Comments from other blog providers
+
+
+",-1
+Create a Support Center for Customers,"redmine,redmineID-188,redmine-Viralheat Product - Scrum",feature,unscheduled,11/29/2011 11:41 pm,,"With a forum, knowledge base.
+
+Lets leverage Zendesk for this.",-1
+Foursquare,"redmine,redmineID-187,redmine-Viralheat Product - Scrum",chore,unscheduled,11/29/2011 11:40 pm,,"",-1
+Google+,"redmine,redmineID-186,redmine-Viralheat Product - Scrum",chore,unscheduled,11/29/2011 11:39 pm,,"",-1
+Linkedin,"redmine,redmineID-185,redmine-Viralheat Product - Scrum",chore,unscheduled,11/29/2011 11:39 pm,,"",-1
+OAuth Library for Wordpress,"redmine,redmineID-184,redmine-Viralheat Product - Scrum",chore,unscheduled,11/29/2011 11:38 pm,,"",-1
+OAuth Library for Tumblr,"redmine,redmineID-183,redmine-Viralheat Product - Scrum",chore,unscheduled,11/29/2011 11:38 pm,,Connect with Tumblr,-1
+Oauth for FourSquare,"redmine,redmineID-182,redmine-Viralheat Product - Scrum",chore,unscheduled,11/29/2011 11:37 pm,,"",-1
+"OAuth Library for Google related services (YouTube, Google Analytics and others)","redmine,redmineID-181,redmine-Viralheat Product - Scrum",chore,unscheduled,11/29/2011 11:37 pm,,"1. Connect to YoUTube
+2. Connect to Google Analytics
+3. Connect to Google Apps
+4. Connect to Gmail (for Contacts)
+5. Connect to Google Contacts.
+
+I am assuming it should be very similar, so just opening an umbrella ticket for all Google related services.",-1
+OAuth Library for Linkedin,"redmine,redmineID-180,redmine-Viralheat Product - Scrum",chore,unscheduled,11/29/2011 11:35 pm,,Connect to Linkedin Account.,-1
+OAuth Library for Google+,"redmine,redmineID-179,redmine-Viralheat Product - Scrum",chore,unscheduled,11/29/2011 11:35 pm,,Connect to the Google Plus account.,-1
+Engagement Functionality for Google+,"redmine,redmineID-178,redmine-Viralheat Product - Scrum",chore,unscheduled,11/29/2011 11:34 pm,,"User should be able to engage on G+
+
+- This is very similar to Facebook or Twitter.",-1
+Engagement Functionality for Linkedin,"redmine,redmineID-177,redmine-Viralheat Product - Scrum",chore,unscheduled,11/29/2011 11:34 pm,,"1. User should be able to update status on Linkedin.
+
+Linkedin has API's for the inbox.
+
+2. User should be able to send an email and also receive an email (inbox) for Linkedin.",-1
+Engagement Functionality for Facebook,"redmine,redmineID-176,redmine-Viralheat Product - Scrum",chore,unscheduled,11/29/2011 11:33 pm,,"",-1
+Engagement Functionality for Twitter,"redmine,redmineID-175,redmine-Viralheat Product - Scrum",chore,unscheduled,11/29/2011 11:32 pm,,"This is almost done already, but adding here tor track.",-1
+Create a Tiered Filtering Concept (Advanced Filtering concept),"redmine,redmineID-174,redmine-Viralheat Product - Scrum",feature,unscheduled,11/29/2011 11:31 pm,,"How to filter when there are multiple ways to filter data, need a better concept for a future version.",-1
+Create an ATOM or RSS feeds for different Sections of the service,"redmine,redmineID-173,redmine-Viralheat Product - Scrum",feature,unscheduled,11/29/2011 11:29 pm,,"1. User can see all the mentions for all the profiles in RSS or Atom format
+2. User can see all the mentions for their hooked accounts in RSS or Atom format
+3. User can see all the alerts generated.
+4. Use can setup Profile specific RSS feeds or Atom feeds.",-1
+Email a platform specific report to the user,"redmine,redmineID-172,redmine-Viralheat Product - Scrum",chore,unscheduled,11/29/2011 11:25 pm,,"1. The user can get a report for Twitter stats for personal account
+2. The user can get another report for Facebook stats for personal account
+
+TBD:
+
+1. The user can setup so that they only get platform specific alerts / email reports.
+a. Negative tweets on Twitter
+b. Mentions of something on Twitter
+c. Influencer mentioned something on Twitter
+
+2. Same for other platforms. Have platform specific alerts / email reports.",-1
+Add a report to download all the data for ALL the profile in excel or csv,"redmine,redmineID-171,redmine-Viralheat Product - Scrum",chore,unscheduled,11/29/2011 11:22 pm,,"1. User can download the data.
+2. User can email the report, or setup so that this get emailed to the user every day/wee/month.",-1
+Add a report to download all the data for a profile in excel or csv,"redmine,redmineID-170,redmine-Viralheat Product - Scrum",chore,unscheduled,11/29/2011 11:21 pm,,"",-1
+Selected date reporting,"redmine,redmineID-167,redmine-Viralheat Product - Scrum",feature,unscheduled,11/29/2011 12:33 pm,,"Would like to be able to select date range for reporting, similar to Google Analytics, so I can compare exact campaign start dates with other things.",-1
+Percent change over time feature,"redmine,redmineID-166,redmine-Viralheat Product - Scrum",feature,unscheduled,11/29/2011 12:32 pm,,"Would love a feature that allows users to compare the percentage change over time, specifically over selected days and weeks right now. When we are able to do ""all time history"" months and years will be important too.",-1
+Add Author in Wordpress Blog,"redmine,redmineID-164,redmine-Viralheat Product - Scrum",feature,unscheduled,11/28/2011 11:39 am,,Please change the format of the Wordpress blog to include the author's name underneath the headline text.,-1
+Facebook: OAUTH Needs to have user details,"redmine,redmineID-163,redmine-Viralheat Product - Scrum",chore,accepted,11/23/2011 12:06 pm,11/23/2011 05:02 pm,"We need to add the following to the user oauth JSON string that we are storing in external accounts:
+
+- User's name
+- User's sex
+- User's age
+
+Raj
+",0
+Facebook: Ability to delete Comments or Posts,"redmine,redmineID-162,redmine-Viralheat Product - Scrum",chore,accepted,11/22/2011 05:28 pm,12/06/2011 10:27 am,"",0
+Facebook: Ability to Like Comments,"redmine,redmineID-161,redmine-Viralheat Product - Scrum",chore,accepted,11/22/2011 05:28 pm,12/06/2011 10:26 am,"",0
+Facebook: Not all comments are displayed for each wall post,"redmine,redmineID-159,redmine-Viralheat Product - Scrum",chore,accepted,11/22/2011 12:38 pm,11/22/2011 05:42 pm,"Either there needs to be a way to load more comments for a given post, or to load them all initially.
+Up to 3 comments are shown. Once there are more than 3 comments then only 2 are shown.",0
+Facebook: Comments do not show avatar images,"redmine,redmineID-158,redmine-Viralheat Product - Scrum",chore,accepted,11/22/2011 12:36 pm,12/06/2011 10:25 am,This information is not given by facebook when getting comments.,0
+Facebook: publishing to a page needs to support choosing to publish as user or page,"redmine,redmineID-157,redmine-Viralheat Product - Scrum",chore,unscheduled,11/22/2011 12:32 pm,,The problem with this is that in order to publish as a user the user must have liked the page,-1
+Facebook: Cannot manage personal wall,"redmine,redmineID-156,redmine-Viralheat Product - Scrum",chore,unscheduled,11/22/2011 12:31 pm,,known limitation/bug: cannot manage Facebook personal wall,-1
+Facebook: Refactor: Store oauth tokens for publishing to pages within external service's json,"redmine,redmineID-155,redmine-Viralheat Product - Scrum",chore,accepted,11/22/2011 12:30 pm,12/06/2011 10:26 am,"refactor: we should be storing the oauth tokens for publishing within the external service's json each time they are listed. The code to do this will be the same code that lists external accounts. The publishing code should retrieve these from the database, not from Facebook.",0
+Twitter & Facebook: Errors and notices are sent via flash notification and do not display until page refresh!,"redmine,redmineID-152,redmine-Viralheat Product - Scrum",chore,unscheduled,11/22/2011 12:10 pm,,Flash notifications such as “message sent” or “error: …” do not display until page refresh. ,-1
+Twitter can be upgraded to use stream api instead of polling,"redmine,redmineID-151,redmine-Viralheat Product - Scrum",chore,unscheduled,11/22/2011 12:08 pm,,"    Twitter does not register a retweet immediately upon returning a success message
+        Handled by introducing a 1500ms delay before reloading the tweet.
+        The proper way is to open a stream, wait for any updates, and display them in real-time on the page.",-1
+Twitter & Facebook: Displaying backend twitter records using the new stream code will require code updates to work.,"redmine,redmineID-148,redmine-Viralheat Product - Scrum",chore,unscheduled,11/22/2011 12:06 pm,,"Backend records can only currently be displayed, not interacted with. Interaction will require a few hours of coding time. There are also pieces of information about tweets that are missing in backend records such as “rewteet_count”.",-1
+System not recognizing the @ sign,"redmine,redmineID-147,redmine-Viralheat Product - Scrum",feature,unscheduled,11/21/2011 06:12 pm,,"""When I download the ""Summary Report"" for Twitter for my Mint profile, it is pulling in any tweet that uses the word ""Mint"". However, my parameters are for ""@mint"". Is there anyway to just have the system pull those tweets and not all tweets with ""Mint"" in them?""",-1
+"Additional data source integration: WordPress, Tumblr, Instagram","redmine,redmineID-114,redmine-Viralheat Product - Scrum",feature,unscheduled,11/15/2011 04:26 pm,,"Add data sources -- WordPress, Tumblr, Instagram",-1
+Change social trends/images file names - No longer needed?,"redmine,redmineID-113,redmine-Viralheat Product - Scrum",feature,unscheduled,11/15/2011 11:34 am,,"",-1
+"Create UI for New ""Account Settings"" Screen","redmine,redmineID-98,redmine-Viralheat Product - Scrum",feature,unscheduled,10/24/2011 11:04 am,,"",-1
+Facebook Account-Level Analytics Layout,"redmine,redmineID-97,redmine-Viralheat Product - Scrum",feature,unscheduled,10/24/2011 11:00 am,,SO go to Viralheat's Facebook Insights. There there will be many stats. Take stats from there and lay it out in a Viralheat analytics panel.,-1
+Create Concept Modal Box for Publishing,"redmine,redmineID-95,redmine-Viralheat Product - Scrum",feature,unscheduled,10/24/2011 10:58 am,,"Specific the action that is taking place (ex. Replying to ???)
+Should be able to multi-select accounts when posting
+Handle replies for Tweets/Facebook
+Should limit characters in reply to 140
+User can select a physical location to post their reply from
+
+h2. Use cases for Replies
+
+# Replies to tweets only show twitter accounts to reply from and you can only select one when replying
+# When replying in stream with facebook can only respond with the account that owns the stream (no account selection)
+# When replying to a facebook mention you can select any facebook account to reply as
+
+",-1
+Create Concept for Stream for Accounts,"redmine,redmineID-94,redmine-Viralheat Product - Scrum",feature,unscheduled,10/24/2011 10:49 am,,"Stream for Twitter
+Stream for Facebook
+Show comments from Twitter and Facebook
+Options should include: Reply, Retweet (if tweet), etc (platform-specific actions)
+",-1
+Create Toolbar Concept for Accounts,"redmine,redmineID-93,redmine-Viralheat Product - Scrum",feature,unscheduled,10/24/2011 10:47 am,,"# Should have overview, stream, analytics, notifications/alerts, search
+# Box for filtering + Filtering options (platform, sentiment, etc.)
+
+ ",-1
+CRM Integration - Revisit Salesforce Integration with Viralheat,"redmine,redmineID-85,redmine-Viralheat Product - Scrum",chore,accepted,10/17/2011 06:03 pm,11/29/2011 11:50 pm,"1. Check to make sure Salesforce oAuth works and records can be exported to Salesforce.
+
+Current features:
+
+* Install sconnect_release to the salesforce account you wish to connect
+* Initiate an OAuth 2.0 connection with the target Salesforce account
+* Remove a connected salesforce account
+* Send a Twitter mention to one of N linked Salesforce accounts
+
+Check this integration out with Zendesk for more information.
+
+https://support.zendesk.com/entries/348360-zendesk-for-salesforce-getting-started",0
+Create an awesome 404 error page for Viralheat,"redmine,redmineID-84,redmine-Viralheat Product - Scrum",feature,unscheduled,10/17/2011 03:42 pm,,"We can discuss ideas here.
+
+1. Currently we have something where the fire has gone out of the logo of Viralheat.",-1
+Add state-level location filter,"redmine,redmineID-83,redmine-Viralheat Product - Scrum",feature,unscheduled,10/17/2011 03:32 pm,,"""I wanted to filter down my searches to the state level.  My project this year is political forecasting at the state level using Twitter.  For example, to predict the outcome of the Florida primaries, I need to have the data broken down to account for just a single state.  Being able to filter Twitter data down to the state level will be an invaluable research and marketing tool alike.""
+
+Shawn Meacham
+Twitter Researcher",-1
+Linked account access tokens should be more secure,"redmine,redmineID-82,redmine-Viralheat Product - Scrum",feature,unscheduled,10/17/2011 12:15 pm,,"",-1
+Email in the contact form should be a required field,"redmine,redmineID-81,redmine-Viralheat Product - Scrum",feature,accepted,10/17/2011 12:05 pm,01/23/2012 04:50 pm,Else the default emails are sent from info@viralheat.com,0
+Engagement Functionality,"redmine,redmineID-75,redmine-Viralheat Product - Scrum",feature,accepted,10/12/2011 11:57 am,12/06/2011 04:30 pm,"h2. High level Requirements
+
+# Can transmit a message to twitter/facebook from dashboard, even using multiple accounts. For each FB account the post can go to multiple locations (wall/fanpages)
+# (NOT IN 1.4) can time tweet transmission in the future (date/time)
+# from the raw feed you can retweet/reply (only on the same network), and can choose which accounts to retweet from
+
+
+h2. Technical Requirements
+
+h3. New Campaigns
+
+# Dashboard -> Post to Facebook: Create a way to post to your own facebook wall or fanpage (text-only in 1.4) (with x accounts) 
+Get fanpage/wall IDs (fb account id)
+Publish to facebook location (fb account id, datetime(optional), message, wall/fanpage IDs) This could then be run for each fb account id
+Model: Get user facebook accounts (returns a list of facebook account ids)
+Get facebook fanpages for User (fb user id)
+# Dashboard -> Tweet: Create a way to tweet something with X accounts. (can be posted in the future, same time by each account?)
+Publish to Twitter (twitter account id, datetime(optional), message)
+# (NOT IN 1.4) Dashboard -> Post Video: Create a way to post a video to Youtube with X accounts
+
+h3. Engagement
+
+# Profile Dashboard -> Facebook: Create a way to publicly comment on a mention.
+# Profile Dashboard -> Twitter: Create a way to retweet a mention (from X accounts), or by tweeting something with @author (with X accounts), or by replying (with a single account), or even by replying all.
+
+h3. Other
+
+# Engagement functionality should be a new controller (engagement or maybe publishing)
+
+h2. Additional Requirements
+
+# Keep a history of everything published through Viralheat
+# (NOT IN 1.4) Scheduling for future transmission of messsages
+# (NOT IN 1.4) Profile Dashboard -> Video: Create a way to comment on a Youtube Video (with 1 account per comment), (Requires Connecting Facebook as an External Account)(can be posted in the future?)
+# UI: Profile Dashboard -> Create a way of prompting the user to connect the appropriate account in order to engage in the discussion
+# Text only for now, rich media to come later. Avoid the assumption that the message is text.
+
+h2. Additional Notes
+
+# Users can participate in a thread discussion, but our app has no way of viewing a thread!
+# Look into cotweet
+# Note: in 1.4, a single user behaves as multitenant",0
+Help Center with 1.4,"redmine,redmineID-69,redmine-Viralheat Product - Scrum",feature,unscheduled,10/04/2011 02:29 pm,,"Need to have an extensive Help Center with the launch of the new version.
+
+Check out some examples at:
+
+http://talent.linkedin.com/customer-center/?pin=49",-1
+OAuth Library for Twitter,"redmine,redmineID-67,redmine-Viralheat Product - Scrum",chore,accepted,09/29/2011 05:33 pm,10/12/2011 12:18 pm,"",0
+OAuth Library for Facebook,"redmine,redmineID-66,redmine-Viralheat Product - Scrum",chore,accepted,09/29/2011 05:33 pm,10/12/2011 12:18 pm,"",0
+Develop and Deploy OAuth Libraries for Twitter/Facebook,"redmine,redmineID-65,redmine-Viralheat Product - Scrum",feature,accepted,09/29/2011 05:33 pm,01/06/2012 12:15 pm,"",0
+Add Linkedin Support in Viralheat,"redmine,redmineID-60,redmine-Viralheat Product - Scrum",feature,unscheduled,09/21/2011 03:56 pm,,"Collection Feedback from users:
+
+I would mostly need something to search through LinkedIn  conversations, so Groups and forums (maybe LinkedIn questions too) for specific keywords, preferably even those in which I'm not a member yet. Also, I'd like to track and analyze my own groups' and company page's acitivity, e.g. a tool providing an industrial sorting of page visitors or group members would be very useful. And of course, the usual things like diagrams how the number of visitors has been changing, how many people have been directed to the webpage from LinkedIn sources, main influencers in given topic, etc.
+ 
+
+-----",-1
+OAuth Library for Google+,"redmine,redmineID-58,redmine-Viralheat Product - Scrum",feature,unscheduled,09/21/2011 03:55 pm,,"",-1
+Allow customer support to go through and edit the profiles.,"redmine,redmineID-57,redmine-Viralheat Product - Scrum",chore,unscheduled,09/20/2011 02:33 pm,,"",-1
+Reports on Failed Billing profiles,"redmine,redmineID-56,redmine-Viralheat Product - Scrum",chore,unscheduled,09/20/2011 02:33 pm,,"",-1
+Reports on Revenue,"redmine,redmineID-55,redmine-Viralheat Product - Scrum",chore,unscheduled,09/20/2011 02:33 pm,,"Need to add accurate reporting on Revenue.
+1. Expected Monthly revenue
+2. Real monthly revenue from PayPal.
+",-1
+Report on Customer satisfaction,"redmine,redmineID-54,redmine-Viralheat Product - Scrum",chore,unscheduled,09/20/2011 02:32 pm,,Integration through Zendesk,-1
+Re-add Viralheat back to the Wikipedia page for Sentiment analysis,"redmine,redmineID-52,redmine-Viralheat Product - Scrum",chore,unscheduled,09/15/2011 05:11 pm,,"After we have an article about Viralheat, re-add it back to Sentiment Analysis.",-1
+Revamp nightly email reports,"redmine,redmineID-48,redmine-Viralheat Product - Scrum",feature,unscheduled,09/15/2011 04:55 pm,,"",-1
+Create Statistics Code for Google+,"redmine,redmineID-40,redmine-Viralheat Product - Scrum",chore,unscheduled,09/15/2011 04:37 pm,,"",-1
+Create Data Aggregation Code for Google+,"redmine,redmineID-39,redmine-Viralheat Product - Scrum",feature,unscheduled,09/15/2011 04:37 pm,,"",-1
+Integrate Google+,"redmine,redmineID-38,redmine-Viralheat Product - Scrum",feature,unscheduled,09/15/2011 04:36 pm,,"",-1
+Develop and Deploy OAuth Libraries for External Platforms,"redmine,redmineID-34,redmine-Viralheat Product - Scrum",feature,unscheduled,09/15/2011 04:33 pm,,"",-1
+Eliminate MySQL and Switch to Couchbase,"redmine,redmineID-31,redmine-Viralheat Product - Scrum",feature,unscheduled,09/15/2011 04:31 pm,,"",-1
+Buy/Install external data aggregation nodes,"redmine,redmineID-30,redmine-Viralheat Product - Scrum",feature,unscheduled,09/15/2011 04:30 pm,,"",-1
+Chat with sales/support rep,"redmine,redmineID-27,redmine-Viralheat Product - Scrum",chore,unscheduled,09/15/2011 04:25 pm,,"",-1
+Prompt users who churn for feedback,"redmine,redmineID-26,redmine-Viralheat Product - Scrum",chore,unscheduled,09/15/2011 04:24 pm,,"",-1
+Report of Churn Rate/Reason,"redmine,redmineID-25,redmine-Viralheat Product - Scrum",chore,unscheduled,09/15/2011 04:23 pm,,"",-1
+Report of Conversion Rate,"redmine,redmineID-24,redmine-Viralheat Product - Scrum",chore,unscheduled,09/15/2011 04:23 pm,,"",-1
+Internal Billing Reports,"redmine,redmineID-23,redmine-Viralheat Product - Scrum",feature,unscheduled,09/15/2011 04:22 pm,,"",-1
+Process Refunds via Interface,"redmine,redmineID-22,redmine-Viralheat Product - Scrum",feature,unscheduled,09/15/2011 04:22 pm,,"",-1
+Handle failed billing,"redmine,redmineID-21,redmine-Viralheat Product - Scrum",feature,accepted,09/15/2011 04:22 pm,12/06/2011 02:52 pm,"",0
+Quarterly and Yearly Billing,"redmine,redmineID-20,redmine-Viralheat Product - Scrum",feature,unscheduled,09/15/2011 04:21 pm,,"",-1
+Internal Administrative Reporting,"redmine,redmineID-18,redmine-Viralheat Product - Scrum",feature,unscheduled,09/15/2011 04:20 pm,,"",-1
+Add Additional Landscape Analytics,"redmine,redmineID-9,redmine-Viralheat Product - Scrum",feature,unscheduled,09/15/2011 04:05 pm,,Add Additional landscape analytics to the platform we already support,-1
+Additional Data Sources,"redmine,redmineID-7,redmine-Viralheat Product - Scrum",feature,unscheduled,09/15/2011 04:03 pm,,"",-1
+Advanced Reporting ,"redmine,redmineID-6,redmine-Viralheat Product - Scrum",chore,unscheduled,09/15/2011 04:02 pm,,"",-1
+Additional Email Reports,"redmine,redmineID-5,redmine-Viralheat Product - Scrum",feature,unscheduled,09/15/2011 04:02 pm,,"",-1
+Team/Seat management,"redmine,redmineID-4,redmine-Viralheat Product - Scrum",feature,unscheduled,09/15/2011 04:02 pm,,"",-1
+Change user interface to inbox-style layout,"redmine,redmineID-1,redmine-Viralheat Product - Scrum",feature,started,09/15/2011 03:56 pm,,"",0
